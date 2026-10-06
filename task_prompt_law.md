@@ -14,6 +14,7 @@ Check that you received the complete file set: run `sha256sum -c MANIFEST.sha256
 ## How to work
 - Do all of the work yourself in this session. Do not hand any part of it to sub-agents, background tasks or parallel workers. I review your own trace, and work done elsewhere is not in it.
 - Every filing decision must come from you reading that email and its attachments. Do not write a script that assigns categories, matters, flags or privilege by keyword or domain matching. The rules forbid filing by keyword alone. Scripts are fine for mechanical work: parsing headers, extracting attachments, building file names, copying files and writing the CSVs from the decisions you recorded.
+- Work through to the end without stopping to ask me questions. Where the inputs leave something open, decide by the rules, record the reasoning in triage_notes.md, and use needs_review where the rules call for it. Stop early only for the input problem described above.
 - Look at each scanned page as its own image. Do not combine scans into a montage or contact sheet, because small renders hide the details that decide the matter (names, file numbers, the rotated page).
 
 ## Part 1: First filing pass (everything in output/phase1/)
