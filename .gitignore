@@ -3,3 +3,4 @@ hartwell/work/scans/
 hartwell/work/verify_scans/*.png
 hartwell/work/rounds/
 __pycache__/
+hartwell/work/build_p1/
