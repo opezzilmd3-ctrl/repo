@@ -3,14 +3,14 @@
 ## Files in this package
 | File | Use |
 |---|---|
-| `task_prompt_law.md` | The task prompt. Paste it into the form and into the self-test session. |
-| `LAW_task_inputs_COMPLETE.zip` | The input archive (about 1.4 MB, 71 files plus INPUTS.md and MANIFEST.sha256). Upload it as the form attachment. |
-| `count_steps.py` | Counts the steps after the self-test run. |
-| `FORM_NOTES.md` | Text you can paste into the form fields. |
+| `submission/task_prompt_law.md` | The task prompt. Paste it into the form and into the self-test session. |
+| `submission/LAW_task_inputs_COMPLETE.zip` | The input archive (about 1.4 MB, 71 files plus INPUTS.md and MANIFEST.sha256). Upload it as the form attachment. |
+| `count_steps.py` (repo root) | Counts the steps after the self-test run. |
+| `submission/FORM_NOTES.md` | Text you can paste into the form fields. |
 
 ## 1. Self-test (fresh run)
-1. Put the contents of `LAW_task_inputs_COMPLETE.zip` (not the zip itself) and `count_steps.py` in the root of the `law-task` repo. That folder must contain `mailbox/`, `matters.csv`, `staff.csv`, `filing_rules.md`, `memos/`, `INPUTS.md` and `MANIFEST.sha256`. Delete any `output/`, `tools/` or `trace/` folder left over from the previous run.
-2. Start a **new** session at claude.ai/code on `law-task`.
+1. The repo `opezzilmd3-ctrl/repo` (branch `claude/upbeat-cerf-vd59jf`) is already set up for the run. The root holds the 71 input files plus `INPUTS.md`, `MANIFEST.sha256` and `count_steps.py`. Leave `submission/` alone; it holds only your form materials.
+2. Start a **new** session at claude.ai/code on `opezzilmd3-ctrl/repo`, on branch `claude/upbeat-cerf-vd59jf` (or on `main` once that branch is merged into it).
 3. Paste the whole of `task_prompt_law.md` and send nothing else. Don't step in until it finishes.
 4. In the same session, send:
    > Please run the attached count_steps.py (python3 count_steps.py) to count the execution steps of this session and tell me the result. If the script says no session log was found, count the steps yourself following the rules it prints.
