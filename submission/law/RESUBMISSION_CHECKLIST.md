@@ -3,13 +3,13 @@
 ## Files in this package
 | File | Use |
 |---|---|
-| `submission/task_prompt_law.md` | The task prompt. Paste it into the form and into the self-test session. |
-| `submission/LAW_task_inputs_COMPLETE.zip` | The input archive (about 1.4 MB, 71 files plus INPUTS.md and MANIFEST.sha256). Upload it as the form attachment. |
+| `submission/law/task_prompt_law.md` | The task prompt. Paste it into the form and into the self-test session. |
+| `submission/law/LAW_task_inputs_COMPLETE.zip` | The input archive (about 1.4 MB, 71 files plus INPUTS.md and MANIFEST.sha256). Upload it as the form attachment. |
 | `count_steps.py` (repo root) | Counts the steps after the self-test run. |
-| `submission/FORM_NOTES.md` | Text you can paste into the form fields. |
+| `submission/law/FORM_NOTES.md` | Text you can paste into the form fields. |
 
 ## 1. Self-test (fresh run)
-1. The repo `opezzilmd3-ctrl/repo` (branch `claude/upbeat-cerf-vd59jf`) is already set up for the run. The root holds the 71 input files plus `INPUTS.md`, `MANIFEST.sha256` and `count_steps.py`. Leave `submission/` alone; it holds only your form materials.
+1. The repo `opezzilmd3-ctrl/repo` (branch `claude/upbeat-cerf-vd59jf`) is already set up for the run. The `law/` folder holds the 71 input files plus `INPUTS.md` and `MANIFEST.sha256`; `count_steps.py` is at the repo root. Leave `submission/` alone; it holds only your form materials.
 2. Start a **new** session at claude.ai/code on `opezzilmd3-ctrl/repo`, on branch `claude/upbeat-cerf-vd59jf` (or on `main` once that branch is merged into it).
 3. Paste the whole of `task_prompt_law.md` and send nothing else. Don't step in until it finishes.
 4. In the same session, send:

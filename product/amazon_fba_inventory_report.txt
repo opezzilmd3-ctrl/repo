@@ -1,0 +1,5 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity
+NHG-1040-FBA	X00833946A	B01E01558A	Northfield Soy Wax Candle - Fig	New	12.99	No	Yes	28	24	1	3
+NHG-1050-FBA	X006E066AE	B0BA485F25	Northfield Wool Throw - Charcoal	New	42.99	No	Yes	7	6	0	1
+NHG-1070-FBA	X00CB355A4	B0238ABD46	Northfield Hanging Bird Feeder	New	19.99	No	Yes	6	4	2	0
+NHG-1090-FBA	X00B75E1C3	B023AACA02	Northfield LED Solar Lantern	New	27.99	No	Yes	17	15	0	2

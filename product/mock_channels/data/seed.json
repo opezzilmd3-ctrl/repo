@@ -1,0 +1,839 @@
+{
+ "shopify": {
+  "location": {
+   "id": 7788001,
+   "name": "Northfield Warehouse"
+  },
+  "products": [
+   {
+    "id": 8100000101,
+    "title": "Glazed Plant Pot",
+    "status": "active",
+    "created_at": "2023-03-14T10:02:11+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000201,
+      "product_id": 8100000101,
+      "title": "Small",
+      "position": 1,
+      "sku": "NHG-1001",
+      "price": "8.99",
+      "barcode": "5060213450011",
+      "inventory_item_id": 4600000301,
+      "weight": 1.2,
+      "weight_unit": "kg"
+     },
+     {
+      "id": 4400000208,
+      "product_id": 8100000101,
+      "title": "Medium",
+      "position": 2,
+      "sku": "nhg-1002",
+      "price": "12.99",
+      "barcode": "5060213450028",
+      "inventory_item_id": 4600000312,
+      "weight": 2.4,
+      "weight_unit": "kg"
+     },
+     {
+      "id": 4400000215,
+      "product_id": 8100000101,
+      "title": "Large",
+      "position": 3,
+      "sku": "NHG1003",
+      "price": "21.99",
+      "barcode": "5060213450035",
+      "inventory_item_id": 4600000323,
+      "weight": 4.8,
+      "weight_unit": "kg"
+     }
+    ]
+   },
+   {
+    "id": 8100000114,
+    "title": "Bamboo Garden Kneeler",
+    "status": "active",
+    "created_at": "2023-03-20T09:15:40+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000222,
+      "product_id": 8100000114,
+      "title": "Default Title",
+      "position": 1,
+      "sku": "NHG-1010",
+      "price": "12.99",
+      "barcode": "5060213450103",
+      "inventory_item_id": 4600000334,
+      "weight": 0.6,
+      "weight_unit": "kg"
+     }
+    ]
+   },
+   {
+    "id": 8100000127,
+    "title": "Stainless Hand Trowel",
+    "status": "active",
+    "created_at": "2023-04-02T14:31:05+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000229,
+      "product_id": 8100000127,
+      "title": "Default Title",
+      "position": 1,
+      "sku": "nhg1011",
+      "price": "7.99",
+      "barcode": "5060213450110",
+      "inventory_item_id": 4600000345,
+      "weight": 0.3,
+      "weight_unit": "kg"
+     }
+    ]
+   },
+   {
+    "id": 8100000140,
+    "title": "Stainless Hand Fork",
+    "status": "active",
+    "created_at": "2023-04-02T14:40:22+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000236,
+      "product_id": 8100000140,
+      "title": "Default Title",
+      "position": 1,
+      "sku": "",
+      "price": "7.99",
+      "barcode": "5060213450127",
+      "inventory_item_id": 4600000356,
+      "weight": 0.3,
+      "weight_unit": "kg"
+     }
+    ]
+   },
+   {
+    "id": 8100000153,
+    "title": "Bypass Pruning Shears",
+    "status": "active",
+    "created_at": "2023-05-11T08:12:54+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000243,
+      "product_id": 8100000153,
+      "title": "Default Title",
+      "position": 1,
+      "sku": "NHG-1013 ",
+      "price": "14.99",
+      "barcode": "5060213450134",
+      "inventory_item_id": 4600000367,
+      "weight": 0.25,
+      "weight_unit": "kg"
+     }
+    ]
+   },
+   {
+    "id": 8100000166,
+    "title": "Organic Herb Seeds",
+    "status": "active",
+    "created_at": "2023-06-01T11:45:00+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000250,
+      "product_id": 8100000166,
+      "title": "Basil",
+      "position": 1,
+      "sku": "NHG-1020",
+      "price": "1.99",
+      "barcode": "5060213450202",
+      "inventory_item_id": 4600000378,
+      "weight": 20.0,
+      "weight_unit": "g"
+     },
+     {
+      "id": 4400000257,
+      "product_id": 8100000166,
+      "title": "Parsley",
+      "position": 2,
+      "sku": "NHG-1021",
+      "price": "1.99",
+      "barcode": "5060213450219",
+      "inventory_item_id": 4600000389,
+      "weight": 20.0,
+      "weight_unit": "g"
+     },
+     {
+      "id": 4400000264,
+      "product_id": 8100000166,
+      "title": "Coriander",
+      "position": 3,
+      "sku": "",
+      "price": "1.99",
+      "barcode": "5060213450226",
+      "inventory_item_id": 4600000400,
+      "weight": 20.0,
+      "weight_unit": "g"
+     }
+    ]
+   },
+   {
+    "id": 8100000179,
+    "title": "Herb Garden Starter Kit",
+    "status": "active",
+    "created_at": "2024-02-19T16:20:33+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000271,
+      "product_id": 8100000179,
+      "title": "Default Title",
+      "position": 1,
+      "sku": "NHG-1030",
+      "price": "22.99",
+      "barcode": "5060213450301",
+      "inventory_item_id": 4600000411,
+      "weight": 1.6,
+      "weight_unit": "kg"
+     }
+    ]
+   },
+   {
+    "id": 8100000192,
+    "title": "Soy Wax Candle",
+    "status": "active",
+    "created_at": "2023-09-07T13:05:18+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000278,
+      "product_id": 8100000192,
+      "title": "Fig",
+      "position": 1,
+      "sku": "NHG-1040",
+      "price": "9.99",
+      "barcode": "5060213450400",
+      "inventory_item_id": 4600000422,
+      "weight": 0.45,
+      "weight_unit": "kg"
+     },
+     {
+      "id": 4400000285,
+      "product_id": 8100000192,
+      "title": "Cedar",
+      "position": 2,
+      "sku": "NHG-1041",
+      "price": "9.99",
+      "barcode": "5060213450417",
+      "inventory_item_id": 4600000433,
+      "weight": 0.45,
+      "weight_unit": "kg"
+     },
+     {
+      "id": 4400000292,
+      "product_id": 8100000192,
+      "title": "Linen",
+      "position": 3,
+      "sku": "NHG-1042",
+      "price": "9.99",
+      "barcode": "5060213450424",
+      "inventory_item_id": 4600000444,
+      "weight": 0.45,
+      "weight_unit": "kg"
+     }
+    ]
+   },
+   {
+    "id": 8100000205,
+    "title": "Wool Throw",
+    "status": "active",
+    "created_at": "2023-10-12T10:00:00+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000299,
+      "product_id": 8100000205,
+      "title": "Charcoal",
+      "position": 1,
+      "sku": "NHG-1050",
+      "price": "38.99",
+      "barcode": "5060213450509",
+      "inventory_item_id": 4600000455,
+      "weight": 1.1,
+      "weight_unit": "kg"
+     },
+     {
+      "id": 4400000306,
+      "product_id": 8100000205,
+      "title": "Oat",
+      "position": 2,
+      "sku": "NHG-1051",
+      "price": "38.99",
+      "barcode": "5060213450516",
+      "inventory_item_id": 4600000466,
+      "weight": 1100.0,
+      "weight_unit": "g"
+     }
+    ]
+   },
+   {
+    "id": 8100000218,
+    "title": "Gardening Gloves",
+    "status": "active",
+    "created_at": "2024-01-08T09:30:00+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000313,
+      "product_id": 8100000218,
+      "title": "Children's",
+      "position": 1,
+      "sku": "NHG-1060",
+      "price": "4.99",
+      "barcode": "",
+      "inventory_item_id": 4600000477,
+      "weight": 0.1,
+      "weight_unit": "kg"
+     },
+     {
+      "id": 4400000320,
+      "product_id": 8100000218,
+      "title": "Adult",
+      "position": 2,
+      "sku": "NHG-1061",
+      "price": "6.99",
+      "barcode": "5060213450615",
+      "inventory_item_id": 4600000488,
+      "weight": 0.12,
+      "weight_unit": "kg"
+     }
+    ]
+   },
+   {
+    "id": 8100000231,
+    "title": "Hanging Bird Feeder",
+    "status": "active",
+    "created_at": "2024-03-03T12:12:12+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000327,
+      "product_id": 8100000231,
+      "title": "Default Title",
+      "position": 1,
+      "sku": "NHG-1070",
+      "price": "16.99",
+      "barcode": "5060213450707",
+      "inventory_item_id": 4600000499,
+      "weight": 0.9,
+      "weight_unit": "kg"
+     }
+    ]
+   },
+   {
+    "id": 8100000244,
+    "title": "Wild Bird Seed Mix 2kg",
+    "status": "active",
+    "created_at": "2024-03-03T12:20:41+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000334,
+      "product_id": 8100000244,
+      "title": "Default Title",
+      "position": 1,
+      "sku": "NHG-1071",
+      "price": "5.49",
+      "barcode": "5060213450714",
+      "inventory_item_id": 4600000510,
+      "weight": 2.5,
+      "weight_unit": "kg"
+     }
+    ]
+   },
+   {
+    "id": 8100000257,
+    "title": "Coir Doormat",
+    "status": "active",
+    "created_at": "2024-04-15T15:55:09+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000341,
+      "product_id": 8100000257,
+      "title": "Default Title",
+      "position": 1,
+      "sku": "NHG-1080",
+      "price": "17.99",
+      "barcode": "5060213450806",
+      "inventory_item_id": 4600000521,
+      "weight": 1.2,
+      "weight_unit": "kg"
+     }
+    ]
+   },
+   {
+    "id": 8100000270,
+    "title": "Garden Kneeling Pad",
+    "status": "active",
+    "created_at": "2024-04-15T16:02:47+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000348,
+      "product_id": 8100000270,
+      "title": "Default Title",
+      "position": 1,
+      "sku": "NHG-1081",
+      "price": "8.99",
+      "barcode": "5060213450813",
+      "inventory_item_id": 4600000532,
+      "weight": 400.0,
+      "weight_unit": "g"
+     }
+    ]
+   },
+   {
+    "id": 8100000283,
+    "title": "Stainless Hand Trowel",
+    "status": "draft",
+    "created_at": "2026-08-21T19:44:02+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000355,
+      "product_id": 8100000283,
+      "title": "Default Title",
+      "position": 1,
+      "sku": "NHG-1011",
+      "price": "7.99",
+      "barcode": "5060213450110",
+      "inventory_item_id": 4600000543,
+      "weight": 0.3,
+      "weight_unit": "kg"
+     }
+    ]
+   },
+   {
+    "id": 8100000296,
+    "title": "LED Solar Lantern",
+    "status": "active",
+    "created_at": "2024-06-01T10:10:10+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000362,
+      "product_id": 8100000296,
+      "title": "Default Title",
+      "position": 1,
+      "sku": "NHG-1090",
+      "price": "24.99",
+      "barcode": "0841234509064",
+      "inventory_item_id": 4600000554,
+      "weight": 0.9,
+      "weight_unit": "kg"
+     }
+    ]
+   },
+   {
+    "id": 8100000309,
+    "title": "Solar Fairy Lights",
+    "status": "active",
+    "created_at": "2024-06-01T10:25:31+00:00",
+    "vendor": "Northfield Home & Garden",
+    "variants": [
+     {
+      "id": 4400000369,
+      "product_id": 8100000309,
+      "title": "Default Title",
+      "position": 1,
+      "sku": "NHG-1091",
+      "price": "14.99",
+      "barcode": "5060213450913",
+      "inventory_item_id": 4600000565,
+      "weight": 0.35,
+      "weight_unit": "kg"
+     }
+    ]
+   }
+  ],
+  "inventory": {
+   "4600000301": 30,
+   "4600000312": 22,
+   "4600000323": 12,
+   "4600000334": 25,
+   "4600000345": 50,
+   "4600000356": 40,
+   "4600000367": 6,
+   "4600000378": 150,
+   "4600000389": 150,
+   "4600000400": 5,
+   "4600000411": 10,
+   "4600000422": 55,
+   "4600000433": 3,
+   "4600000444": 30,
+   "4600000455": 12,
+   "4600000466": 9,
+   "4600000477": 60,
+   "4600000488": 58,
+   "4600000499": 18,
+   "4600000510": 80,
+   "4600000521": 26,
+   "4600000532": 40,
+   "4600000543": 5,
+   "4600000554": 20,
+   "4600000565": 35
+  }
+ },
+ "amazon": {
+  "marketplace_id": "A1F83G8C2ARO7P",
+  "listings": [
+   {
+    "sku": "NHG-1001",
+    "asin": "B0DC164B1A",
+    "product_id": "5060213450011",
+    "item_name": "Northfield Glazed Plant Pot - Small",
+    "fulfillment_channel": "DEFAULT",
+    "price": "8.99",
+    "min": "8.99",
+    "max": "13.49",
+    "quantity": 30,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "nhg-1002",
+    "asin": "B02F58ACEC",
+    "product_id": "5060213450028",
+    "item_name": "Northfield Glazed Plant Pot - Medium",
+    "fulfillment_channel": "DEFAULT",
+    "price": "13.49",
+    "min": "13.49",
+    "max": "20.24",
+    "quantity": 20,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1003",
+    "asin": "B088B3DACC",
+    "product_id": "5060213450035",
+    "item_name": "Northfield Glazed Plant Pot - Large",
+    "fulfillment_channel": "DEFAULT",
+    "price": "21.99",
+    "min": "19.99",
+    "max": "32.99",
+    "quantity": 10,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1010",
+    "asin": "B0BD1B3B56",
+    "product_id": "5060213450103",
+    "item_name": "Northfield Bamboo Garden Kneeler",
+    "fulfillment_channel": "DEFAULT",
+    "price": "12.99",
+    "min": "12.99",
+    "max": "19.49",
+    "quantity": 22,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1011",
+    "asin": "B0EBA2A514",
+    "product_id": "5060213450110",
+    "item_name": "Northfield Stainless Hand Trowel",
+    "fulfillment_channel": "DEFAULT",
+    "price": "7.99",
+    "min": "7.49",
+    "max": "11.99",
+    "quantity": 45,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1011-X3",
+    "asin": "B0316E9F20",
+    "product_id": "5060213459113",
+    "item_name": "Northfield Stainless Hand Trowel (Pack of 3)",
+    "fulfillment_channel": "DEFAULT",
+    "price": "20.99",
+    "min": "18.00",
+    "max": "31.49",
+    "quantity": 15,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "2J-W8KQ-7ZPA",
+    "asin": "B0FDBCECBD",
+    "product_id": "5060213450127",
+    "item_name": "Northfield Stainless Hand Fork",
+    "fulfillment_channel": "DEFAULT",
+    "price": "7.99",
+    "min": "7.49",
+    "max": "11.99",
+    "quantity": 38,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1013",
+    "asin": "B0BF4C3DBB",
+    "product_id": "5060213450134",
+    "item_name": "Northfield Bypass Pruning Shears",
+    "fulfillment_channel": "DEFAULT",
+    "price": "14.99",
+    "min": "14.99",
+    "max": "22.49",
+    "quantity": 5,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1020",
+    "asin": "B048A48317",
+    "product_id": "5060213450202",
+    "item_name": "Northfield Organic Herb Seeds - Basil",
+    "fulfillment_channel": "DEFAULT",
+    "price": "1.99",
+    "min": "1.99",
+    "max": "2.99",
+    "quantity": 120,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1020-X5",
+    "asin": "B09E5B04AB",
+    "product_id": "5060213459205",
+    "item_name": "Northfield Organic Herb Seeds - Basil (Pack of 5)",
+    "fulfillment_channel": "DEFAULT",
+    "price": "7.99",
+    "min": "7.99",
+    "max": "11.99",
+    "quantity": 24,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1021",
+    "asin": "B07F64C33A",
+    "product_id": "5060213450219",
+    "item_name": "Northfield Organic Herb Seeds - Parsley",
+    "fulfillment_channel": "DEFAULT",
+    "price": "1.99",
+    "min": "1.99",
+    "max": "2.99",
+    "quantity": 120,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1030",
+    "asin": "B089A2D129",
+    "product_id": "5060213450301",
+    "item_name": "Northfield Herb Garden Starter Kit",
+    "fulfillment_channel": "DEFAULT",
+    "price": "22.99",
+    "min": "22.99",
+    "max": "34.49",
+    "quantity": 8,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1040-FBA",
+    "asin": "B01E01558A",
+    "product_id": "5060213450400",
+    "item_name": "Northfield Soy Wax Candle - Fig",
+    "fulfillment_channel": "AMAZON_EU",
+    "price": "12.99",
+    "min": "9.99",
+    "max": "19.49",
+    "quantity": null,
+    "handling_time": null,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1041",
+    "asin": "B07C6C44AA",
+    "product_id": "5060213450417",
+    "item_name": "Northfield Soy Wax Candle - Cedar",
+    "fulfillment_channel": "DEFAULT",
+    "price": "9.99",
+    "min": "9.99",
+    "max": "14.99",
+    "quantity": 2,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1042",
+    "asin": "B0E8410D38",
+    "product_id": "5060213450424",
+    "item_name": "Northfield Soy Wax Candle - Linen",
+    "fulfillment_channel": "DEFAULT",
+    "price": "9.99",
+    "min": "9.99",
+    "max": "14.99",
+    "quantity": 28,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1050-FBA",
+    "asin": "B0BA485F25",
+    "product_id": "5060213450509",
+    "item_name": "Northfield Wool Throw - Charcoal",
+    "fulfillment_channel": "AMAZON_EU",
+    "price": "42.99",
+    "min": "34.99",
+    "max": "64.49",
+    "quantity": null,
+    "handling_time": null,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1051",
+    "asin": "B04EA48113",
+    "product_id": "5060213450516",
+    "item_name": "Northfield Wool Throw - Oat",
+    "fulfillment_channel": "DEFAULT",
+    "price": "38.99",
+    "min": "34.99",
+    "max": "58.49",
+    "quantity": 8,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "7Q-ZX4M-PL2C",
+    "asin": "B06DD55B6D",
+    "product_id": "5060213450608",
+    "item_name": "Northfield Gardening Gloves - Children's",
+    "fulfillment_channel": "DEFAULT",
+    "price": "4.99",
+    "min": "4.99",
+    "max": "7.49",
+    "quantity": 55,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1061",
+    "asin": "B05E5BE4D3",
+    "product_id": "5060213450615",
+    "item_name": "Northfield Gardening Gloves - Adult",
+    "fulfillment_channel": "DEFAULT",
+    "price": "6.99",
+    "min": "6.99",
+    "max": "10.49",
+    "quantity": 50,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1070",
+    "asin": "B0238ABD46",
+    "product_id": "5060213450707",
+    "item_name": "Northfield Hanging Bird Feeder",
+    "fulfillment_channel": "DEFAULT",
+    "price": "16.99",
+    "min": "15.99",
+    "max": "25.49",
+    "quantity": 12,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1070-FBA",
+    "asin": "B0238ABD46",
+    "product_id": "5060213450707",
+    "item_name": "Northfield Hanging Bird Feeder",
+    "fulfillment_channel": "AMAZON_EU",
+    "price": "19.99",
+    "min": "15.99",
+    "max": "29.99",
+    "quantity": null,
+    "handling_time": null,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1071",
+    "asin": "B095A2EFE1",
+    "product_id": "5060213450714",
+    "item_name": "Northfield Wild Bird Seed Mix 2kg",
+    "fulfillment_channel": "DEFAULT",
+    "price": "5.49",
+    "min": "5.49",
+    "max": "8.24",
+    "quantity": 70,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1080",
+    "asin": "B055877CC4",
+    "product_id": "5060213450806",
+    "item_name": "Northfield Coir Doormat",
+    "fulfillment_channel": "DEFAULT",
+    "price": "17.99",
+    "min": "17.99",
+    "max": "26.99",
+    "quantity": 20,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1090-FBA",
+    "asin": "B023AACA02",
+    "product_id": "0841234509064",
+    "item_name": "Northfield LED Solar Lantern",
+    "fulfillment_channel": "AMAZON_EU",
+    "price": "27.99",
+    "min": "24.99",
+    "max": "41.99",
+    "quantity": null,
+    "handling_time": null,
+    "status": "Active"
+   },
+   {
+    "sku": "NHG-1091",
+    "asin": "B0058C65D9",
+    "product_id": "5060213450912",
+    "item_name": "Northfield Solar Fairy Lights",
+    "fulfillment_channel": "DEFAULT",
+    "price": "14.99",
+    "min": "14.99",
+    "max": "22.49",
+    "quantity": 30,
+    "handling_time": 2,
+    "status": "Active"
+   },
+   {
+    "sku": "OLD-WATERCAN-01",
+    "asin": "B04AC9C1B0",
+    "product_id": "5060213459991",
+    "item_name": "Galvanised Watering Can 9L",
+    "fulfillment_channel": "DEFAULT",
+    "price": "11.99",
+    "min": "9.99",
+    "max": "17.99",
+    "quantity": 3,
+    "handling_time": 2,
+    "status": "Active"
+   }
+  ],
+  "fba_fulfillable": {
+   "NHG-1040-FBA": 24,
+   "NHG-1050-FBA": 6,
+   "NHG-1070-FBA": 4,
+   "NHG-1090-FBA": 15
+  }
+ }
+}

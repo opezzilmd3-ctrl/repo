@@ -1,0 +1,7 @@
+tier,max_weight_kg,fee_gbp
+Small envelope,0.15,2.42
+Standard envelope,0.40,2.89
+Small parcel,0.90,3.38
+Standard parcel 1,1.50,4.27
+Standard parcel 2,3.00,5.05
+Standard parcel 3,5.00,6.12
