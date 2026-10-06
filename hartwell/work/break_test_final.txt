@@ -1,0 +1,20 @@
+check_filing.py  output=/tmp/claude-0/-home-user-repo/a3e578fd-946e-5f24-b864-e509161c84f3/scratchpad/break_test/phase1_broken  matters=./matters.csv
+emails=64 log_rows=64 box_files=91 (eml=64 stubs=3 documents=24) wall_incidents=3 privilege_log=7
+  check: filing_log.csv: columns, one row per mailbox email
+  check: box: every box_path exists, byte-identical to the mailbox original, each email exactly once as primary copy, no extra files
+  check: names: <YYYY-MM-DD>_<HHMM>_<lastname>_<slug>.eml (+_dup for hold-retained duplicates); category → folder
+  check: restricted matters only under box/Restricted/, nothing else there; restricted flag
+  check: cross-reference stubs: one line "Filed at: <path>", path exists, same client, matches xref_matters
+  check: attachments: matter emails → Documents/<YYYY-MM-DD>_<original name>, byte-identical; none for other categories
+  check: duplicates (Message-ID) and litigation hold: retained duplicates, hold flag
+  check: flags: vocabulary and order; post-closing; ethical wall + wall_incidents.csv
+  check: privilege values; privilege_log.csv = every 1001-001 email with AC/WP
+  check: filing_summary.md counts match filing_log.csv and box/
+FAIL – 6 problem(s):
+  [primary] AAMk0749fe85b0.eml: box_path does not exist: box/Clients/1008 Sato Architecture/1008-001 Rivera Roofing Dispute/Correspondence/2026-08-24_1030_sato_rivera-mediation.eml
+  [primary] extra .eml in box not in filing log: box/Clients/1006 Fenwick Lane HOA/1006-001 Assessment Collections/Correspondence/2026-08-24_1030_sato_rivera-mediation.eml
+  [stub] box/Clients/1001 Brightwater Foods/1001-002 SunHarvest Trademark/Correspondence/2026-08-10_1430_whitcomb_two-things.eml.xref.txt: Filed at path does not exist: box/Clients/1001 Brightwater Foods/1001-001 Kestrel Supply Dispute/Correspondence/2026-08-10_1430_whitcomb_TWO-THINGS-CORRUPT.eml
+  [stub] box/Clients/1001 Brightwater Foods/1001-002 SunHarvest Trademark/Correspondence/2026-08-10_1430_whitcomb_two-things.eml.xref.txt: points to box/Clients/1001 Brightwater Foods/1001-001 Kestrel Supply Dispute/Correspondence/2026-08-10_1430_whitcomb_TWO-THINGS-CORRUPT.eml, primary copy is box/Clients/1001 Brightwater Foods/1001-001 Kestrel Supply Dispute/Correspondence/2026-08-10_1430_whitcomb_two-things.eml
+  [attach] unexpected or misnamed file in Documents: box/Clients/1002 Delgado Maria/1002-001 Estate of Ricardo Delgado/Documents/appraisal_88_alder.pdf
+  [attach] missing extracted attachment box/Clients/1002 Delgado Maria/1002-001 Estate of Ricardo Delgado/Documents/2026-08-04_scan_0812.pdf (from AAMk737734d7c1.eml)
+exit=1

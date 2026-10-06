@@ -1,0 +1,5 @@
+hartwell/work/parsed/
+hartwell/work/scans/
+hartwell/work/verify_scans/*.png
+hartwell/work/rounds/
+__pycache__/

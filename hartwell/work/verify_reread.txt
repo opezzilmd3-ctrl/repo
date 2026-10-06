@@ -1,0 +1,315 @@
+=== AAMkdd73cf256d.eml [kestrel]
+  2026-08-03 09:12 From: Dana Whitcomb <dwhitcomb@brightwaterfoods.test> | To: Mira Osei <mosei@hartwell-osei.test> | Cc: -
+  Subj: Kestrel shipment records
+  Body: Mira, Attached are the March-May delivery logs you asked for. The short shipments from Kestrel are highlighted. Let me know if you need the invoices too. Dana
+  Att: ['delivery_logs_mar-may.pdf']
+  P1: matter/1001-001/x=-/AC/-
+  FINAL: matter/1001-001/x=-/AC/-
+=== AAMkc7ec99108d.eml [kestrel]
+  2026-08-04 10:05 From: Greg Tolland <gtolland@tolland-law.test> | To: Mira Osei <mosei@hartwell-osei.test> | Cc: -
+  Subj: Brightwater v. Kestrel - proposed protective order
+  Body: Counsel, Attached is our proposed stipulated protective order. Please send any edits by the 7th. Greg Tolland Tolland Law, counsel for Kestrel Packaging Ltd
+  Att: ['proposed_protective_order.pdf']
+  P1: matter/1001-001/x=-/none/-
+  FINAL: matter/1001-001/x=-/none/-
+=== AAMkda8201e2bd.eml [tran]
+  2026-08-04 16:20 From: Ravi Iyer <riyer@hartwell-osei.test> | To: Paul Ostrander <paul.ostrander@mailbox.test> | Cc: -
+  Subj: Financial disclosure deadline
+  Body: Paul, Reminder: your financial disclosure statement is due to the court by August 28. Please send the last three bank statements. Ravi
+  Att: []
+  P1: matter/1005-001/x=-/AC/-
+  FINAL: matter/1005-001/x=-/AC/-
+=== AAMkcd2f45e678.eml [flagged, tran, abrandt, tweller, anika, tom weller]
+  2026-08-05 09:40 From: Anika Brandt <abrandt@hartwell-osei.test> | To: Mira Osei <mosei@hartwell-osei.test> | Cc: Tom Weller <tweller@hartwell-osei.test>
+  Subj: Tran deposition outline?
+  Body: Mira, I worked on Ms. Tran's side at my old firm, so I know their theory well. Happy to help with the deposition outline if useful. Anika
+  Att: []
+  P1: matter/1003-001/x=-/WP/ethical-wall
+  FINAL: matter/1003-001/x=-/WP/ethical-wall
+=== AAMk9da13ffe79.eml [flagged]
+  2026-08-05 15:02 From: Elena Varga <evarga@callowaymed.test> | To: Leah Park <lpark@hartwell-osei.test> | Cc: -
+  Subj: Incident timeline - draft
+  Body: Leah, Our IT vendor's timeline of the July access incident is attached. Please keep circulation tight. Elena
+  Att: ['incident_timeline_draft.pdf']
+  P1: matter/1004-001/x=-/AC/restricted
+  FINAL: matter/1004-001/x=-/AC/restricted
+=== AAMk2fcb008853.eml [heron]
+  2026-08-06 09:10 From: Elena Varga <evarga@callowaymed.test> | To: Jonah Hartwell <jhartwell@hartwell-osei.test> | Cc: -
+  Subj: Heron - diligence responses
+  Body: Jonah, Attached is Riverside's response to our diligence request list. Elena
+  Att: ['diligence_responses.pdf']
+  P1: matter/1004-002/x=-/AC/-
+  FINAL: matter/1004-002/x=-/AC/-
+=== AAMk7218187993.eml [heron]
+  2026-08-06 10:45 From: Sam Pryce <sam@blueheronmarina.test> | To: Jonah Hartwell <jhartwell@hartwell-osei.test> | Cc: -
+  Subj: Heron slip agreement - signature page
+  Body: Jonah, Signed signature page attached. Sam
+  Att: ['sigpage.pdf']
+  P1: matter/1007-001/x=-/AC/-
+  FINAL: matter/1007-001/x=-/AC/-
+=== AAMk8917362f25.eml [fenwick]
+  2026-08-06 17:30 From: Fenwick Lane HOA Board <board@fenwicklanehoa.test> | To: Leah Park <lpark@hartwell-osei.test> | Cc: -
+  Subj: Unit 22 arrears
+  Body: Leah, The unit 22 owner is now four months behind on dues. Ledger attached. Board
+  Att: ['ledger.pdf']
+  P1: matter/1006-001/x=-/AC/-
+  FINAL: matter/1006-001/x=-/AC/-
+=== AAMke3cf44dd3f.eml [flagged, fenwick, tran]
+  2026-08-07 08:20 From: Maria Delgado <mdelgado.home@mailbox.test> | To: Ravi Iyer <riyer@hartwell-osei.test> | Cc: -
+  Subj: Fenwick Lane HOA letter
+  Body: Ravi, I got a letter from the Fenwick Lane HOA saying I owe a transfer fee from the June purchase. Is that right? Letter attached. Maria
+  Att: ['hoa_letter.pdf']
+  P1: matter/1002-002/x=-/AC/post-closing;potential-conflict
+  FINAL: matter/1002-002/x=-/AC/post-closing;potential-conflict
+=== AAMk980ab8ab67.eml [kestrel]
+  2026-08-07 11:00 From: Greg Tolland <gtolland@tolland-law.test> | To: Mira Osei <mosei@hartwell-osei.test> | Cc: -
+  Subj: RE: Brightwater v. Kestrel - proposed protective order
+  Body: Mira, We accept your edits to paragraphs 4 and 9. Clean version to follow. Greg
+  Att: []
+  P1: matter/1001-001/x=-/none/-
+  FINAL: matter/1001-001/x=-/none/-
+=== AAMka2b1852f27.eml [kestrel]
+  2026-08-07 11:00 From: Greg Tolland <gtolland@tolland-law.test> | To: Mira Osei <mosei@hartwell-osei.test> | Cc: -
+  Subj: RE: Brightwater v. Kestrel - proposed protective order
+  Body: Mira, We accept your edits to paragraphs 4 and 9. Clean version to follow. Greg
+  Att: []
+  P1: duplicate/-/x=-/n/a/-
+  FINAL: duplicate/-/x=-/n/a/-
+=== AAMk65fb710734.eml [flagged, kestrel, tweller, tom weller]
+  2026-08-10 09:00 From: Mira Osei <mosei@hartwell-osei.test> | To: Dana Whitcomb <dwhitcomb@brightwaterfoods.test> | Cc: Tom Weller <tweller@hartwell-osei.test>
+  Subj: Litigation hold notice - Kestrel dispute
+  Body: Dana, Please see the attached litigation hold notice. Effective today, nothing related to Kestrel may be deleted. Mira
+  Att: ['litigation_hold_notice.pdf']
+  P1: matter/1001-001/x=-/AC/hold
+  FINAL: matter/1001-001/x=-/AC/hold
+=== AAMk73f6fa5db8.eml [flagged, kestrel]
+  2026-08-10 14:30 From: Dana Whitcomb <dwhitcomb@brightwaterfoods.test> | To: Mira Osei <mosei@hartwell-osei.test>, Leah Park <lpark@hartwell-osei.test> | Cc: -
+  Subj: Two things
+  Body: Mira - we found more Kestrel emails from April; I'll upload them tonight. Leah - the SunHarvest packaging launch moved to November. Does that affect the trademark timing? Dana
+  Att: []
+  P1: matter/1001-001/x=1001-002/AC/hold
+  FINAL: matter/1001-001/x=1001-002/AC/hold
+=== AAMkbda7677796.eml [flagged, kestrel, tweller, tom weller]
+  2026-08-11 10:10 From: Tom Weller <tweller@hartwell-osei.test> | To: Mira Osei <mosei@hartwell-osei.test> | Cc: -
+  Subj: Kestrel production - Bates ranges
+  Body: Mira, Proposed Bates ranges for our first production: BWF000001-BWF002400. Draft privilege calls flagged in the review sheet. Tom
+  Att: []
+  P1: matter/1001-001/x=-/WP/hold
+  FINAL: matter/1001-001/x=-/WP/hold
+=== AAMka69d95847e.eml [flagged, tran, abrandt, anika]
+  2026-08-11 13:45 From: Nina Cole <ncole@colelaborlaw.test> | To: Mira Osei <mosei@hartwell-osei.test> | Cc: Anika Brandt <abrandt@hartwell-osei.test>
+  Subj: Tran v. Northpoint - mediation dates
+  Body: Counsel, Ms. Tran is available for mediation on Sept 15 or 22. Please confirm. Nina Cole
+  Att: []
+  P1: matter/1003-001/x=-/none/ethical-wall
+  FINAL: matter/1003-001/x=-/none/ethical-wall
+=== AAMk9f28518867.eml [tran]
+  2026-08-11 16:00 From: Hank Moreau <hmoreau@northpointlogistics.test> | To: Mira Osei <mosei@hartwell-osei.test> | Cc: -
+  Subj: Tran - personnel file
+  Body: Mira, The excerpt you asked for is attached. Hank
+  Att: ['personnel_excerpt.pdf']
+  P1: matter/1003-001/x=-/AC/-
+  FINAL: matter/1003-001/x=-/AC/-
+=== AAMk090f3ebdd3.eml [flagged, heron, tran]
+  2026-08-12 15:40 From: Paul Ostrander <paul.ostrander@mailbox.test> | To: Ravi Iyer <riyer@hartwell-osei.test> | Cc: -
+  Subj: Kids schedule + one more thing
+  Body: Ravi, The kids' holiday schedule looks fine to me. Also, my brother wants to know if you could help him with a slip contract at Blue Heron Marina. Can he call you? Paul
+  Att: []
+  P1: matter/1005-001/x=-/AC/potential-conflict;new-matter-request
+  FINAL: matter/1005-001/x=-/AC/potential-conflict;new-matter-request
+=== AAMke130b17d0b.eml [flagged]
+  2026-08-13 08:45 From: Leah Park <lpark@hartwell-osei.test> | To: Elena Varga <evarga@callowaymed.test> | Cc: -
+  Subj: Regulator notification letter - draft v2
+  Body: Elena, Draft v2 of the notification letter is below for your review. Privileged and confidential. Leah
+  Att: []
+  P1: matter/1004-001/x=-/AC/restricted
+  FINAL: matter/1004-001/x=-/AC/restricted
+=== AAMk993deffa38.eml [flagged]
+  2026-08-13 10:00 From: IT Support <it-support@hartwe11-osei.test> | To: Mira Osei <mosei@hartwell-osei.test>, Leah Park <lpark@hartwell-osei.test>, Ravi Iyer <riyer@hartwell-osei.test> | Cc: -
+  Subj: Password expiry - verify now
+  Body: Your mailbox password expires today. Verify your account at the link below to avoid losing access.
+  Att: []
+  P1: non_matter/-/x=-/n/a/phishing
+  FINAL: non_matter/-/x=-/n/a/phishing
+=== AAMkc707b37e14.eml [flagged, needs_review, kestrel]
+  2026-08-13 14:15 From: Robert Baines <rbaines@kestrelpack.test> | To: Jonah Hartwell <jhartwell@hartwell-osei.test> | Cc: -
+  Subj: Request for representation
+  Body: Mr. Hartwell, Kestrel Packaging would like to engage your firm for a new distribution agreement. Could we schedule a call? Robert Baines, CEO
+  Att: []
+  P1: needs_review/-/x=-/n/a/potential-conflict;new-matter-request
+  FINAL: firm_admin/-/x=-/n/a/declined-intake;new-matter-request
+=== AAMk32d7a94ded.eml [flagged]
+  2026-08-14 11:25 From: Greg Tolland <gtolland@tolland-law.test> | To: Mira Osei <mosei@hartwell-osei.test> | Cc: -
+  Subj: Deposition of D. Whitcomb
+  Body: Mira, We intend to depose Dana Whitcomb in late September. Please propose dates. Greg
+  Att: []
+  P1: matter/1001-001/x=-/none/hold
+  FINAL: matter/1001-001/x=-/none/hold
+=== AAMk9770c6a5b8.eml [flagged]
+  2026-08-14 11:25 From: Greg Tolland <gtolland@tolland-law.test> | To: Mira Osei <mosei@hartwell-osei.test> | Cc: -
+  Subj: Deposition of D. Whitcomb
+  Body: Mira, We intend to depose Dana Whitcomb in late September. Please propose dates. Greg
+  Att: []
+  P1: duplicate/1001-001/x=-/none/hold;duplicate-retained
+  FINAL: duplicate/1001-001/x=-/none/hold;duplicate-retained
+=== AAMk3b84e55160.eml [flagged, heron]
+  2026-08-17 10:40 From: Elena Varga <evarga@callowaymed.test> | To: Leah Park <lpark@hartwell-osei.test>, Jonah Hartwell <jhartwell@hartwell-osei.test> | Cc: -
+  Subj: Board update
+  Body: Leah: the notification letter went out Friday. Jonah: the Heron board vote is set for September 2. Elena
+  Att: []
+  P1: matter/1004-001/x=1004-002/AC/restricted
+  FINAL: matter/1004-001/x=1004-002/AC/restricted
+=== AAMk4ba3ea284d.eml [flagged, needs_review]
+  2026-08-17 15:00 From: Lucy Carter <lcarter@carter-whitfield.test> | To: Mira Osei <mosei@hartwell-osei.test> | Cc: -
+  Subj: Martinez closing docs
+  Body: Attached are the closing documents for the Martinez closing next week, per our call. Lucy Carter, Carter Whitfield LLP
+  Att: []
+  P1: needs_review/-/x=-/n/a/misdirected
+  FINAL: needs_review/-/x=-/n/a/misdirected
+=== AAMk017ff12229.eml [tweller, tom weller]
+  2026-08-18 09:30 From: Mira Osei <mosei@hartwell-osei.test> | To: Tom Weller <tweller@hartwell-osei.test> | Cc: -
+  Subj: Sato - draft demand letter
+  Body: Tom, Please prepare a first draft of the demand letter to Rivera & Sons. Our position: no payment for work not performed. Mira
+  Att: []
+  P1: matter/1008-001/x=-/WP/-
+  FINAL: matter/1008-001/x=-/WP/-
+=== AAMk15a9964aef.eml [heron]
+  2026-08-18 12:00 From: Sam Pryce <sam@blueheronmarina.test> | To: Jonah Hartwell <jhartwell@hartwell-osei.test> | Cc: -
+  Subj: Insurance certificate
+  Body: Jonah, Insurance certificate attached as requested. Sam
+  Att: ['coi.pdf']
+  P1: matter/1007-001/x=-/AC/-
+  FINAL: matter/1007-001/x=-/AC/-
+=== AAMka775139237.eml [flagged, tran, abrandt, anika]
+  2026-08-18 16:45 From: Hank Moreau <hmoreau@northpointlogistics.test> | To: Jonah Hartwell <jhartwell@hartwell-osei.test> | Cc: Anika Brandt <abrandt@hartwell-osei.test>
+  Subj: Dock 7 - and one more thing
+  Body: Jonah, The landlord accepted our counter on Dock 7. Separately, Ms. Tran's lawyer called me directly again. Is that allowed? Hank
+  Att: []
+  P1: matter/1003-002/x=1003-001/AC/ethical-wall
+  FINAL: matter/1003-002/x=1003-001/AC/ethical-wall
+=== AAMk8dff666589.eml [flagged, needs_review]
+  2026-08-19 13:30 From: Maria Delgado <mdelgado.home@mailbox.test> | To: Ravi Iyer <riyer@hartwell-osei.test> | Cc: -
+  Subj: New question
+  Body: Ravi, Unrelated to Dad's estate: my daughter is starting a bakery and wants to form an LLC. Can you help? Maria
+  Att: []
+  P1: needs_review/-/x=-/n/a/new-matter-request
+  FINAL: matter/1002-003/x=-/AC/-
+=== AAMkeefee5a5b2.eml [flagged, tran]
+  2026-08-20 08:10 From: Mail Delivery Subsystem <mailer-daemon@mx.hartwell-osei.test> | To: Ravi Iyer <riyer@hartwell-osei.test> | Cc: -
+  Subj: Undeliverable: Financial disclosure deadline
+  Body: Delivery has failed to these recipients: paul.ostrander@mailbox.test Original subject: Financial disclosure deadline
+  Att: []
+  P1: matter/1005-001/x=-/none/delivery-failure
+  FINAL: matter/1005-001/x=-/none/delivery-failure
+=== AAMk15d7185dda.eml [flagged, kestrel]
+  2026-08-20 11:45 From: Dana Whitcomb <dwhitcomb@brightwaterfoods.test> | To: Mira Osei <mosei@hartwell-osei.test> | Cc: -
+  Subj: April emails
+  Body: Mira, The April Kestrel emails are attached as one PDF. Dana
+  Att: ['april_emails.pdf']
+  P1: matter/1001-001/x=-/AC/hold
+  FINAL: matter/1001-001/x=-/AC/hold
+=== AAMk833acb6266.eml [flagged, fenwick, tran]
+  2026-08-21 14:00 From: Fenwick Lane HOA Board <board@fenwicklanehoa.test> | To: Leah Park <lpark@hartwell-osei.test> | Cc: -
+  Subj: Transfer fee - unit 14
+  Body: Leah, The new owner at 14 Fenwick Lane, Maria Delgado, disputes the transfer fee. Can we send a demand letter? Board
+  Att: []
+  P1: matter/1006-001/x=-/AC/potential-conflict
+  FINAL: matter/1006-001/x=-/AC/potential-conflict
+=== AAMk9011fa2ac0.eml [abrandt, anika]
+  2026-08-24 13:00 From: Carla Ruiz <cruiz@hartwell-osei.test> | To: Jonah Hartwell <jhartwell@hartwell-osei.test>, Mira Osei <mosei@hartwell-osei.test>, Leah Park <lpark@hartwell-osei.test>, Ravi Iyer <riyer@hartwell-osei.test>, Anika Brandt <abrandt@hartwell-osei.test> | Cc: -
+  Subj: Q3 billing deadline
+  Body: All, Please submit Q3 time entries by September 5. Carla
+  Att: []
+  P1: firm_admin/-/x=-/n/a/-
+  FINAL: firm_admin/-/x=-/n/a/-
+=== AAMk1bc42b7170.eml [heron]
+  2026-08-24 16:10 From: Elena Varga <evarga@callowaymed.test> | To: Jonah Hartwell <jhartwell@hartwell-osei.test> | Cc: -
+  Subj: Escrow instructions
+  Body: Jonah, Draft escrow instructions for Heron attached. Elena
+  Att: ['escrow_instructions.pdf']
+  P1: matter/1004-002/x=-/AC/-
+  FINAL: matter/1004-002/x=-/AC/-
+=== AAMk1b66809a11.eml [flagged, needs_review, heron]
+  2026-08-25 09:20 From: Sam Pryce <sam@blueheronmarina.test> | To: Jonah Hartwell <jhartwell@hartwell-osei.test> | Cc: -
+  Subj: Heron fuel dock incident
+  Body: Jonah, A visiting boat struck our fuel dock on Saturday and the boat owner's insurer has contacted us. Can you advise us on the damage claim? Sam
+  Att: []
+  P1: needs_review/-/x=-/n/a/new-matter-request
+  FINAL: matter/1007-002/x=-/AC/-
+=== AAMk4ad8b9b45c.eml [flagged]
+  2026-08-25 11:00 From: Greg Tolland <gtolland@tolland-law.test> | To: Mira Osei <mosei@hartwell-osei.test> | Cc: -
+  Subj: Settlement discussion (FRE 408)
+  Body: Mira, For settlement purposes only: would your client consider a structured credit on future orders? Greg
+  Att: []
+  P1: matter/1001-001/x=-/none/hold
+  FINAL: matter/1001-001/x=-/none/hold
+=== AAMk1162f28d1a.eml [flagged, kestrel]
+  2026-08-25 15:30 From: Mira Osei <mosei@hartwell-osei.test> | To: Dana Whitcomb <dwhitcomb@brightwaterfoods.test>, Jonah Hartwell <jhartwell@hartwell-osei.test> | Cc: -
+  Subj: Settlement strategy - privileged
+  Body: Dana, Jonah, My recommendation on Kestrel's settlement feeler is below. Privileged and confidential. Mira
+  Att: []
+  P1: matter/1001-001/x=-/AC/hold
+  FINAL: matter/1001-001/x=-/AC/hold
+=== AAMk04f542441d.eml [flagged, tran, tweller, tom weller]
+  2026-08-26 09:45 From: Hank Moreau <hmoreau@northpointlogistics.test> | To: Mira Osei <mosei@hartwell-osei.test> | Cc: Tom Weller <tweller@hartwell-osei.test>
+  Subj: Tran mediation - authority
+  Body: Mira, Management approved settlement authority up to the amount we discussed. Hank
+  Att: []
+  P1: matter/1003-001/x=-/AC/-
+  FINAL: matter/1003-001/x=-/AC/ethical-wall
+=== AAMk6078511608.eml [flagged]
+  2026-08-28 11:30 From: Elena Varga <evarga@callowaymed.test> | To: Leah Park <lpark@hartwell-osei.test> | Cc: -
+  Subj: doc
+  Body: 
+  Att: ['doc_0828.pdf']
+  P1: matter/1004-001/x=-/AC/restricted
+  FINAL: matter/1004-001/x=-/AC/restricted
+=== AAMk6b65bd9acb.eml [tran]
+  2026-09-01 13:00 From: Paul Ostrander <paul.ostrander@mailbox.test> | To: Ravi Iyer <riyer@hartwell-osei.test> | Cc: -
+  Subj: scan
+  Body: 
+  Att: ['statement_jul.pdf']
+  P1: matter/1005-001/x=-/AC/-
+  FINAL: matter/1005-001/x=-/AC/-
+=== AAMk9012b2a414.eml [heron]
+  2026-09-02 16:00 From: Sam Pryce <sam@blueheronmarina.test> | To: Jonah Hartwell <jhartwell@hartwell-osei.test> | Cc: -
+  Subj: Re: Heron
+  Body: Receipt attached.
+  Att: ['receipt.pdf']
+  P1: matter/1007-001/x=-/AC/-
+  FINAL: matter/1007-001/x=-/AC/-
+=== AAMk32a123f501.eml [heron]
+  2026-09-03 09:30 From: Jonah Hartwell <jhartwell@hartwell-osei.test> | To: Elena Varga <evarga@callowaymed.test> | Cc: -
+  Subj: Heron - board approved, closing checklist
+  Body: Elena, Congratulations on the board approval. The closing checklist is below. Jonah
+  Att: []
+  P1: matter/1004-002/x=-/AC/-
+  FINAL: matter/1004-002/x=-/AC/-
+=== AAMk5645100358.eml [abrandt, anika]
+  2026-09-08 15:00 From: Anika Brandt <abrandt@hartwell-osei.test> | To: Hank Moreau <hmoreau@northpointlogistics.test> | Cc: -
+  Subj: Dock 7 - signature blocks
+  Body: Hank, Please confirm the signatory for the Dock 7 renewal signature blocks. Anika
+  Att: []
+  P1: matter/1003-002/x=-/AC/-
+  FINAL: matter/1003-002/x=-/AC/-
+=== AAMk03552454f1.eml [flagged, kestrel]
+  2026-09-14 11:00 From: Greg Tolland <gtolland@tolland-law.test> | To: Mira Osei <mosei@hartwell-osei.test> | Cc: -
+  Subj: Kestrel - document production vol. 2
+  Body: Mira, Our second production volume is attached. Greg
+  Att: ['production_vol2_index.pdf']
+  P1: matter/1001-001/x=-/none/hold
+  FINAL: matter/1001-001/x=-/none/hold
+=== AAMk68f6cdb2f8.eml [flagged, needs_review]
+  2026-09-21 10:30 From: Maria Delgado <mdelgado.home@mailbox.test> | To: Ravi Iyer <riyer@hartwell-osei.test> | Cc: -
+  Subj: Bakery LLC - name ideas
+  Body: Ravi, My daughter likes 'Delgado Bakery LLC'. Is that name available? Maria
+  Att: []
+  P1: needs_review/-/x=-/n/a/new-matter-request
+  FINAL: matter/1002-003/x=-/AC/-
+=== AAMkecc20ef164.eml [flagged]
+  2026-09-25 16:00 From: Dana Whitcomb <dwhitcomb@brightwaterfoods.test> | To: Mira Osei <mosei@hartwell-osei.test> | Cc: -
+  Subj: Old April mailbox
+  Body: Mira, Our IT team wants to purge the April purchasing mailbox to save space. Is that OK? Dana
+  Att: []
+  P1: matter/1001-001/x=-/AC/hold;attorney-action
+  FINAL: matter/1001-001/x=-/AC/hold;attorney-action

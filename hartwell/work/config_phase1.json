@@ -1,0 +1,40 @@
+{
+ "phase_title": "Phase 1 (first filing pass, before memos)",
+ "privilege_log_matter": "1001-001",
+ "walls": [
+  {
+   "person": "Anika Brandt",
+   "email": "abrandt@hartwell-osei.test",
+   "matter": "1003-001",
+   "since": "2026-07-01"
+  }
+ ],
+ "privilege_descriptions": {
+  "AAMkdd73cf256d.eml": "Client communication to counsel transmitting business records requested by counsel for the dispute.",
+  "AAMk65fb710734.eml": "Counsel communication to client transmitting a litigation hold notice and preservation instructions.",
+  "AAMk73f6fa5db8.eml": "Client communication to counsel regarding collection of documents for the dispute (also addresses a separate trademark matter).",
+  "AAMkbda7677796.eml": "Internal firm communication (paralegal to attorney) regarding preparation of a document production.",
+  "AAMk15d7185dda.eml": "Client communication to counsel transmitting documents collected at counsel's request.",
+  "AAMk1162f28d1a.eml": "Counsel communication to client and firm partner providing legal advice regarding settlement.",
+  "AAMkecc20ef164.eml": "Client communication to counsel requesting legal advice regarding document preservation."
+ },
+ "wall_actions": {
+  "AAMkcd2f45e678.eml": "Screened associate sent an email about the walled matter offering to help and stating prior work for the adverse party. Ethics partner (Jonah Hartwell) to be notified; Mira Osei must decline her involvement and not forward matter material; reconfirm the screen in writing with Anika Brandt and Tom Weller.",
+  "AAMka69d95847e.eml": "Opposing counsel copied the screened associate on a matter email. Ethics partner (Jonah Hartwell) to be notified; Mira Osei to reply without Anika Brandt and ask Cole Labor Law to remove her from all correspondence; Anika Brandt to delete nothing (retain) but not read or act on it.",
+  "AAMka775139237.eml": "Client copied the screened associate on an email that raises a question on the walled matter (Tran counsel contacting the client directly). Ethics partner (Jonah Hartwell) to be notified; Mira Osei to answer the Tran question without Anika Brandt; ask Northpoint (Hank Moreau) to keep her off Tran topics."
+ },
+ "open_issues": [
+  "URGENT \u2013 hold conflict: Brightwater asks to purge the April purchasing mailbox (AAMkecc20ef164, 2026-09-25), which holds April Kestrel evidence. 1001-001 has been under hold since 2026-08-10. Mira Osei must instruct the client not to purge.",
+  "Ethical wall \u2013 3 incidents on 1003-001 (Tran) involving Anika Brandt (AAMkcd2f45e678 sender; AAMka69d95847e cc; AAMka775139237 cc). The ethics partner Jonah Hartwell must be notified.",
+  "Potential conflict \u2013 Fenwick Lane HOA (1006) vs Maria Delgado (1002) over the 14 Fenwick Lane transfer fee (AAMke3cf44dd3f, AAMk833acb6266). No demand letter until cleared.",
+  "Potential conflict \u2013 Kestrel Packaging (adverse party in 1001-001) asks to hire the firm (AAMkc707b37e14). Held in needs_review.",
+  "Potential conflict / new-matter request \u2013 Paul Ostrander's brother wants help with a slip contract at Blue Heron Marina, a current client (AAMk090f3ebdd3).",
+  "New-matter requests in needs_review: Delgado daughter's bakery LLC (AAMk8dff666589, AAMk68f6cdb2f8); Blue Heron Marina fuel-dock damage claim (AAMk1b66809a11).",
+  "Misdirected email from Carter Whitfield LLP (Martinez closing, AAMk4ba3ea284d). Notify the sender; it was not read further.",
+  "Post-closing activity in closed matter 1002-002 (Purchase 14 Fenwick Lane, closed 2026-06-30): AAMke3cf44dd3f.",
+  "Delivery failure: the Ostrander financial-disclosure reminder bounced (AAMkeefee5a5b2). The court deadline was Aug 28; confirm with the client and check the disclosure status.",
+  "Phishing: a look-alike domain hartwe11-osei.test sent a credential request to Mira Osei, Leah Park and Ravi Iyer (AAMk993deffa38). IT to block it and check for clicks.",
+  "IT: storage 91% full notice (AAMk108743feb6), relevant to the Box migration.",
+  "Duplicates: AAMka2b1852f27 is pre-hold, so it went to _Duplicates. AAMk9770c6a5b8 is post-hold, so it is retained in 1001-001 as _dup."
+ ]
+}

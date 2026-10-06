@@ -1,0 +1,14 @@
+check_filing.py  output=output/phase1  matters=/home/user/repo/hartwell/matters.csv
+emails=64 log_rows=64 box_files=91 (eml=64 stubs=3 documents=24) wall_incidents=3 privilege_log=7
+  check: filing_log.csv: columns, one row per mailbox email
+  check: box: every box_path exists, byte-identical to the mailbox original, each email exactly once as primary copy, no extra files
+  check: names: <YYYY-MM-DD>_<HHMM>_<lastname>_<slug>.eml (+_dup for hold-retained duplicates); category → folder
+  check: restricted matters only under box/Restricted/, nothing else there; restricted flag
+  check: cross-reference stubs: one line "Filed at: <path>", path exists, same client, matches xref_matters
+  check: attachments: matter emails → Documents/<YYYY-MM-DD>_<original name>, byte-identical; none for other categories
+  check: duplicates (Message-ID) and litigation hold: retained duplicates, hold flag
+  check: flags: vocabulary and order; post-closing; ethical wall + wall_incidents.csv
+  check: privilege values; privilege_log.csv = every 1001-001 email with AC/WP
+  check: filing_summary.md counts match filing_log.csv and box/
+PASS – all checks clean
+exit=0
