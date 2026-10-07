@@ -1,0 +1,282 @@
+channel,item,key,field,expected,live,match
+shopify,NHG-1001 (master),4400000201,sku,NHG-1001,NHG-1001,yes
+shopify,NHG-1001 (master),4400000201,price,8.99,8.99,yes
+shopify,NHG-1001 (master),4400000201,barcode,5060213450011,5060213450011,yes
+shopify,NHG-1001 (master),4400000201,inventory,35,35,yes
+shopify,NHG-1001 (master),4400000201,status,active,active,yes
+shopify,NHG-1002 (master),4400000208,sku,NHG-1002,NHG-1002,yes
+shopify,NHG-1002 (master),4400000208,price,13.99,13.99,yes
+shopify,NHG-1002 (master),4400000208,barcode,5060213450028,5060213450028,yes
+shopify,NHG-1002 (master),4400000208,inventory,22,22,yes
+shopify,NHG-1002 (master),4400000208,status,active,active,yes
+shopify,NHG-1003 (master),4400000215,sku,NHG-1003,NHG-1003,yes
+shopify,NHG-1003 (master),4400000215,price,24.99,24.99,yes
+shopify,NHG-1003 (master),4400000215,barcode,5060213450035,5060213450035,yes
+shopify,NHG-1003 (master),4400000215,inventory,12,12,yes
+shopify,NHG-1003 (master),4400000215,status,active,active,yes
+shopify,NHG-1010 (master),4400000222,sku,NHG-1010,NHG-1010,yes
+shopify,NHG-1010 (master),4400000222,price,12.99,12.99,yes
+shopify,NHG-1010 (master),4400000222,barcode,5060213450103,5060213450103,yes
+shopify,NHG-1010 (master),4400000222,inventory,28,28,yes
+shopify,NHG-1010 (master),4400000222,status,active,active,yes
+shopify,NHG-1011 (master),4400000229,sku,NHG-1011,NHG-1011,yes
+shopify,NHG-1011 (master),4400000229,price,9.99,9.99,yes
+shopify,NHG-1011 (master),4400000229,barcode,5060213450110,5060213450110,yes
+shopify,NHG-1011 (master),4400000229,inventory,55,55,yes
+shopify,NHG-1011 (master),4400000229,status,active,active,yes
+shopify,NHG-1012 (master),4400000236,sku,NHG-1012,NHG-1012,yes
+shopify,NHG-1012 (master),4400000236,price,7.99,7.99,yes
+shopify,NHG-1012 (master),4400000236,barcode,5060213450127,5060213450127,yes
+shopify,NHG-1012 (master),4400000236,inventory,47,47,yes
+shopify,NHG-1012 (master),4400000236,status,active,active,yes
+shopify,NHG-1013 (master),4400000243,sku,NHG-1013,NHG-1013,yes
+shopify,NHG-1013 (master),4400000243,price,15.99,15.99,yes
+shopify,NHG-1013 (master),4400000243,barcode,5060213450134,5060213450134,yes
+shopify,NHG-1013 (master),4400000243,inventory,0,0,yes
+shopify,NHG-1013 (master),4400000243,status,active,active,yes
+shopify,NHG-1020 (master),4400000250,sku,NHG-1020,NHG-1020,yes
+shopify,NHG-1020 (master),4400000250,price,1.99,1.99,yes
+shopify,NHG-1020 (master),4400000250,barcode,5060213450202,5060213450202,yes
+shopify,NHG-1020 (master),4400000250,inventory,200,200,yes
+shopify,NHG-1020 (master),4400000250,status,active,active,yes
+shopify,NHG-1021 (master),4400000257,sku,NHG-1021,NHG-1021,yes
+shopify,NHG-1021 (master),4400000257,price,1.99,1.99,yes
+shopify,NHG-1021 (master),4400000257,barcode,5060213450219,5060213450219,yes
+shopify,NHG-1021 (master),4400000257,inventory,176,176,yes
+shopify,NHG-1021 (master),4400000257,status,active,active,yes
+shopify,NHG-1022 (master),4400000264,sku,NHG-1022,NHG-1022,yes
+shopify,NHG-1022 (master),4400000264,price,1.99,1.99,yes
+shopify,NHG-1022 (master),4400000264,barcode,5060213450226,5060213450226,yes
+shopify,NHG-1022 (master),4400000264,inventory,5,5,yes
+shopify,NHG-1022 (master),4400000264,status,active,active,yes
+shopify,NHG-1030 (master),4400000271,sku,NHG-1030,NHG-1030,yes
+shopify,NHG-1030 (master),4400000271,price,22.99,22.99,yes
+shopify,NHG-1030 (master),4400000271,barcode,5060213450301,5060213450301,yes
+shopify,NHG-1030 (master),4400000271,inventory,5,5,yes
+shopify,NHG-1030 (master),4400000271,status,active,active,yes
+shopify,NHG-1040 (master),4400000278,sku,NHG-1040,NHG-1040,yes
+shopify,NHG-1040 (master),4400000278,price,9.99,9.99,yes
+shopify,NHG-1040 (master),4400000278,barcode,5060213450400,5060213450400,yes
+shopify,NHG-1040 (master),4400000278,inventory,60,60,yes
+shopify,NHG-1040 (master),4400000278,status,active,active,yes
+shopify,NHG-1041 (master),4400000285,sku,NHG-1041,NHG-1041,yes
+shopify,NHG-1041 (master),4400000285,price,9.99,9.99,yes
+shopify,NHG-1041 (master),4400000285,barcode,5060213450417,5060213450417,yes
+shopify,NHG-1041 (master),4400000285,inventory,0,0,yes
+shopify,NHG-1041 (master),4400000285,status,active,active,yes
+shopify,NHG-1042 (master),4400000292,sku,NHG-1042,NHG-1042,yes
+shopify,NHG-1042 (master),4400000292,price,9.99,9.99,yes
+shopify,NHG-1042 (master),4400000292,barcode,5060213450424,5060213450424,yes
+shopify,NHG-1042 (master),4400000292,inventory,31,31,yes
+shopify,NHG-1042 (master),4400000292,status,active,active,yes
+shopify,NHG-1050 (master),4400000299,sku,NHG-1050,NHG-1050,yes
+shopify,NHG-1050 (master),4400000299,price,38.99,38.99,yes
+shopify,NHG-1050 (master),4400000299,barcode,5060213450509,5060213450509,yes
+shopify,NHG-1050 (master),4400000299,inventory,13,13,yes
+shopify,NHG-1050 (master),4400000299,status,active,active,yes
+shopify,NHG-1051 (master),4400000306,sku,NHG-1051,NHG-1051,yes
+shopify,NHG-1051 (master),4400000306,price,38.99,38.99,yes
+shopify,NHG-1051 (master),4400000306,barcode,5060213450516,5060213450516,yes
+shopify,NHG-1051 (master),4400000306,inventory,9,9,yes
+shopify,NHG-1051 (master),4400000306,status,active,active,yes
+shopify,NHG-1060 (master),4400000313,sku,NHG-1060,NHG-1060,yes
+shopify,NHG-1060 (master),4400000313,price,4.99,4.99,yes
+shopify,NHG-1060 (master),4400000313,barcode,5060213450608,5060213450608,yes
+shopify,NHG-1060 (master),4400000313,inventory,70,70,yes
+shopify,NHG-1060 (master),4400000313,status,active,active,yes
+shopify,NHG-1061 (master),4400000320,sku,NHG-1061,NHG-1061,yes
+shopify,NHG-1061 (master),4400000320,price,6.99,6.99,yes
+shopify,NHG-1061 (master),4400000320,barcode,5060213450615,5060213450615,yes
+shopify,NHG-1061 (master),4400000320,inventory,61,61,yes
+shopify,NHG-1061 (master),4400000320,status,active,active,yes
+shopify,NHG-1070 (master),4400000327,sku,NHG-1070,NHG-1070,yes
+shopify,NHG-1070 (master),4400000327,price,16.99,16.99,yes
+shopify,NHG-1070 (master),4400000327,barcode,5060213450707,5060213450707,yes
+shopify,NHG-1070 (master),4400000327,inventory,0,0,yes
+shopify,NHG-1070 (master),4400000327,status,draft,draft,yes
+shopify,NHG-1071 (master),4400000334,sku,NHG-1071,NHG-1071,yes
+shopify,NHG-1071 (master),4400000334,price,5.99,5.99,yes
+shopify,NHG-1071 (master),4400000334,barcode,5060213450714,5060213450714,yes
+shopify,NHG-1071 (master),4400000334,inventory,84,84,yes
+shopify,NHG-1071 (master),4400000334,status,active,active,yes
+shopify,NHG-1080 (master),4400000341,sku,NHG-1080,NHG-1080,yes
+shopify,NHG-1080 (master),4400000341,price,19.99,19.99,yes
+shopify,NHG-1080 (master),4400000341,barcode,5060213450806,5060213450806,yes
+shopify,NHG-1080 (master),4400000341,inventory,26,26,yes
+shopify,NHG-1080 (master),4400000341,status,active,active,yes
+shopify,NHG-1081 (master),4400000348,sku,NHG-1081,NHG-1081,yes
+shopify,NHG-1081 (master),4400000348,price,8.99,8.99,yes
+shopify,NHG-1081 (master),4400000348,barcode,5060213450813,5060213450813,yes
+shopify,NHG-1081 (master),4400000348,inventory,41,41,yes
+shopify,NHG-1081 (master),4400000348,status,active,active,yes
+shopify,NHG-1011 (duplicate),4400000355,sku,,,yes
+shopify,NHG-1011 (duplicate),4400000355,price,7.99,7.99,yes
+shopify,NHG-1011 (duplicate),4400000355,barcode,5060213450110,5060213450110,yes
+shopify,NHG-1011 (duplicate),4400000355,inventory,0,0,yes
+shopify,NHG-1011 (duplicate),4400000355,status,archived,archived,yes
+shopify,NHG-1090 (master),4400000362,sku,NHG-1090,NHG-1090,yes
+shopify,NHG-1090 (master),4400000362,price,24.99,24.99,yes
+shopify,NHG-1090 (master),4400000362,barcode,0841234509064,0841234509064,yes
+shopify,NHG-1090 (master),4400000362,inventory,20,20,yes
+shopify,NHG-1090 (master),4400000362,status,active,active,yes
+shopify,NHG-1091 (master),4400000369,sku,NHG-1091,NHG-1091,yes
+shopify,NHG-1091 (master),4400000369,price,14.99,14.99,yes
+shopify,NHG-1091 (master),4400000369,barcode,5060213450912,5060213450912,yes
+shopify,NHG-1091 (master),4400000369,inventory,37,37,yes
+shopify,NHG-1091 (master),4400000369,status,active,active,yes
+amazon,NHG-1001,NHG-1001,price,8.99,8.99,yes
+amazon,NHG-1001,NHG-1001,minimum-seller-allowed-price,8.99,8.99,yes
+amazon,NHG-1001,NHG-1001,maximum-seller-allowed-price,13.49,13.49,yes
+amazon,NHG-1001,NHG-1001,quantity,34,34,yes
+amazon,NHG-1001,NHG-1001,handling-time,2,2,yes
+amazon,NHG-1001,NHG-1001,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,nhg-1002,nhg-1002,price,13.99,13.99,yes
+amazon,nhg-1002,nhg-1002,minimum-seller-allowed-price,13.99,13.99,yes
+amazon,nhg-1002,nhg-1002,maximum-seller-allowed-price,20.99,20.99,yes
+amazon,nhg-1002,nhg-1002,quantity,21,21,yes
+amazon,nhg-1002,nhg-1002,handling-time,2,2,yes
+amazon,nhg-1002,nhg-1002,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1003,NHG-1003,price,24.99,24.99,yes
+amazon,NHG-1003,NHG-1003,minimum-seller-allowed-price,24.99,24.99,yes
+amazon,NHG-1003,NHG-1003,maximum-seller-allowed-price,37.49,37.49,yes
+amazon,NHG-1003,NHG-1003,quantity,11,11,yes
+amazon,NHG-1003,NHG-1003,handling-time,2,2,yes
+amazon,NHG-1003,NHG-1003,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1010,NHG-1010,price,12.99,12.99,yes
+amazon,NHG-1010,NHG-1010,minimum-seller-allowed-price,12.99,12.99,yes
+amazon,NHG-1010,NHG-1010,maximum-seller-allowed-price,19.49,19.49,yes
+amazon,NHG-1010,NHG-1010,quantity,27,27,yes
+amazon,NHG-1010,NHG-1010,handling-time,2,2,yes
+amazon,NHG-1010,NHG-1010,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1011,NHG-1011,price,9.99,9.99,yes
+amazon,NHG-1011,NHG-1011,minimum-seller-allowed-price,9.49,9.49,yes
+amazon,NHG-1011,NHG-1011,maximum-seller-allowed-price,14.99,14.99,yes
+amazon,NHG-1011,NHG-1011,quantity,54,54,yes
+amazon,NHG-1011,NHG-1011,handling-time,2,2,yes
+amazon,NHG-1011,NHG-1011,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1011-X3,NHG-1011-X3,price,28.99,28.99,yes
+amazon,NHG-1011-X3,NHG-1011-X3,minimum-seller-allowed-price,28.47,28.47,yes
+amazon,NHG-1011-X3,NHG-1011-X3,maximum-seller-allowed-price,43.49,43.49,yes
+amazon,NHG-1011-X3,NHG-1011-X3,quantity,18,18,yes
+amazon,NHG-1011-X3,NHG-1011-X3,handling-time,2,2,yes
+amazon,NHG-1011-X3,NHG-1011-X3,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,2J-W8KQ-7ZPA,2J-W8KQ-7ZPA,price,7.99,7.99,yes
+amazon,2J-W8KQ-7ZPA,2J-W8KQ-7ZPA,minimum-seller-allowed-price,7.49,7.49,yes
+amazon,2J-W8KQ-7ZPA,2J-W8KQ-7ZPA,maximum-seller-allowed-price,11.99,11.99,yes
+amazon,2J-W8KQ-7ZPA,2J-W8KQ-7ZPA,quantity,46,46,yes
+amazon,2J-W8KQ-7ZPA,2J-W8KQ-7ZPA,handling-time,2,2,yes
+amazon,2J-W8KQ-7ZPA,2J-W8KQ-7ZPA,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1013,NHG-1013,price,15.99,15.99,yes
+amazon,NHG-1013,NHG-1013,minimum-seller-allowed-price,15.99,15.99,yes
+amazon,NHG-1013,NHG-1013,maximum-seller-allowed-price,23.99,23.99,yes
+amazon,NHG-1013,NHG-1013,quantity,0,0,yes
+amazon,NHG-1013,NHG-1013,handling-time,2,2,yes
+amazon,NHG-1013,NHG-1013,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1020,NHG-1020,price,1.99,1.99,yes
+amazon,NHG-1020,NHG-1020,minimum-seller-allowed-price,1.99,1.99,yes
+amazon,NHG-1020,NHG-1020,maximum-seller-allowed-price,2.99,2.99,yes
+amazon,NHG-1020,NHG-1020,quantity,199,199,yes
+amazon,NHG-1020,NHG-1020,handling-time,2,2,yes
+amazon,NHG-1020,NHG-1020,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1020-X5,NHG-1020-X5,price,9.99,9.99,yes
+amazon,NHG-1020-X5,NHG-1020-X5,minimum-seller-allowed-price,9.95,9.95,yes
+amazon,NHG-1020-X5,NHG-1020-X5,maximum-seller-allowed-price,14.99,14.99,yes
+amazon,NHG-1020-X5,NHG-1020-X5,quantity,39,39,yes
+amazon,NHG-1020-X5,NHG-1020-X5,handling-time,2,2,yes
+amazon,NHG-1020-X5,NHG-1020-X5,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1021,NHG-1021,price,1.99,1.99,yes
+amazon,NHG-1021,NHG-1021,minimum-seller-allowed-price,1.99,1.99,yes
+amazon,NHG-1021,NHG-1021,maximum-seller-allowed-price,2.99,2.99,yes
+amazon,NHG-1021,NHG-1021,quantity,175,175,yes
+amazon,NHG-1021,NHG-1021,handling-time,2,2,yes
+amazon,NHG-1021,NHG-1021,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1030,NHG-1030,price,22.99,22.99,yes
+amazon,NHG-1030,NHG-1030,minimum-seller-allowed-price,22.99,22.99,yes
+amazon,NHG-1030,NHG-1030,maximum-seller-allowed-price,34.49,34.49,yes
+amazon,NHG-1030,NHG-1030,quantity,4,4,yes
+amazon,NHG-1030,NHG-1030,handling-time,2,2,yes
+amazon,NHG-1030,NHG-1030,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1040-FBA,NHG-1040-FBA,price,13.99,13.99,yes
+amazon,NHG-1040-FBA,NHG-1040-FBA,minimum-seller-allowed-price,9.99,9.99,yes
+amazon,NHG-1040-FBA,NHG-1040-FBA,maximum-seller-allowed-price,20.99,20.99,yes
+amazon,NHG-1040-FBA,NHG-1040-FBA,quantity,(not sent; Amazon-managed),null,yes
+amazon,NHG-1040-FBA,NHG-1040-FBA,handling-time,(not sent; Amazon-managed),null,yes
+amazon,NHG-1040-FBA,NHG-1040-FBA,fulfillment-channel,AMAZON_EU,AMAZON_EU,yes
+amazon,NHG-1041,NHG-1041,price,9.99,9.99,yes
+amazon,NHG-1041,NHG-1041,minimum-seller-allowed-price,9.99,9.99,yes
+amazon,NHG-1041,NHG-1041,maximum-seller-allowed-price,14.99,14.99,yes
+amazon,NHG-1041,NHG-1041,quantity,0,0,yes
+amazon,NHG-1041,NHG-1041,handling-time,2,2,yes
+amazon,NHG-1041,NHG-1041,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1042,NHG-1042,price,9.99,9.99,yes
+amazon,NHG-1042,NHG-1042,minimum-seller-allowed-price,9.99,9.99,yes
+amazon,NHG-1042,NHG-1042,maximum-seller-allowed-price,14.99,14.99,yes
+amazon,NHG-1042,NHG-1042,quantity,30,30,yes
+amazon,NHG-1042,NHG-1042,handling-time,2,2,yes
+amazon,NHG-1042,NHG-1042,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1050-FBA,NHG-1050-FBA,price,43.99,43.99,yes
+amazon,NHG-1050-FBA,NHG-1050-FBA,minimum-seller-allowed-price,34.99,34.99,yes
+amazon,NHG-1050-FBA,NHG-1050-FBA,maximum-seller-allowed-price,65.99,65.99,yes
+amazon,NHG-1050-FBA,NHG-1050-FBA,quantity,(not sent; Amazon-managed),null,yes
+amazon,NHG-1050-FBA,NHG-1050-FBA,handling-time,(not sent; Amazon-managed),null,yes
+amazon,NHG-1050-FBA,NHG-1050-FBA,fulfillment-channel,AMAZON_EU,AMAZON_EU,yes
+amazon,NHG-1051,NHG-1051,price,38.99,38.99,yes
+amazon,NHG-1051,NHG-1051,minimum-seller-allowed-price,34.99,34.99,yes
+amazon,NHG-1051,NHG-1051,maximum-seller-allowed-price,58.49,58.49,yes
+amazon,NHG-1051,NHG-1051,quantity,8,8,yes
+amazon,NHG-1051,NHG-1051,handling-time,2,2,yes
+amazon,NHG-1051,NHG-1051,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,7Q-ZX4M-PL2C,7Q-ZX4M-PL2C,price,4.99,4.99,yes
+amazon,7Q-ZX4M-PL2C,7Q-ZX4M-PL2C,minimum-seller-allowed-price,4.99,4.99,yes
+amazon,7Q-ZX4M-PL2C,7Q-ZX4M-PL2C,maximum-seller-allowed-price,7.49,7.49,yes
+amazon,7Q-ZX4M-PL2C,7Q-ZX4M-PL2C,quantity,69,69,yes
+amazon,7Q-ZX4M-PL2C,7Q-ZX4M-PL2C,handling-time,2,2,yes
+amazon,7Q-ZX4M-PL2C,7Q-ZX4M-PL2C,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1061,NHG-1061,price,6.99,6.99,yes
+amazon,NHG-1061,NHG-1061,minimum-seller-allowed-price,6.99,6.99,yes
+amazon,NHG-1061,NHG-1061,maximum-seller-allowed-price,10.49,10.49,yes
+amazon,NHG-1061,NHG-1061,quantity,60,60,yes
+amazon,NHG-1061,NHG-1061,handling-time,2,2,yes
+amazon,NHG-1061,NHG-1061,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1070,NHG-1070,price,16.99,16.99,yes
+amazon,NHG-1070,NHG-1070,minimum-seller-allowed-price,15.99,15.99,yes
+amazon,NHG-1070,NHG-1070,maximum-seller-allowed-price,25.49,25.49,yes
+amazon,NHG-1070,NHG-1070,quantity,0,0,yes
+amazon,NHG-1070,NHG-1070,handling-time,2,2,yes
+amazon,NHG-1070,NHG-1070,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1070-FBA,NHG-1070-FBA,price,20.99,20.99,yes
+amazon,NHG-1070-FBA,NHG-1070-FBA,minimum-seller-allowed-price,15.99,15.99,yes
+amazon,NHG-1070-FBA,NHG-1070-FBA,maximum-seller-allowed-price,31.49,31.49,yes
+amazon,NHG-1070-FBA,NHG-1070-FBA,quantity,(not sent; Amazon-managed),null,yes
+amazon,NHG-1070-FBA,NHG-1070-FBA,handling-time,(not sent; Amazon-managed),null,yes
+amazon,NHG-1070-FBA,NHG-1070-FBA,fulfillment-channel,AMAZON_EU,AMAZON_EU,yes
+amazon,NHG-1071,NHG-1071,price,5.99,5.99,yes
+amazon,NHG-1071,NHG-1071,minimum-seller-allowed-price,5.49,5.49,yes
+amazon,NHG-1071,NHG-1071,maximum-seller-allowed-price,8.99,8.99,yes
+amazon,NHG-1071,NHG-1071,quantity,83,83,yes
+amazon,NHG-1071,NHG-1071,handling-time,2,2,yes
+amazon,NHG-1071,NHG-1071,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1080,NHG-1080,price,19.99,19.99,yes
+amazon,NHG-1080,NHG-1080,minimum-seller-allowed-price,19.99,19.99,yes
+amazon,NHG-1080,NHG-1080,maximum-seller-allowed-price,29.99,29.99,yes
+amazon,NHG-1080,NHG-1080,quantity,25,25,yes
+amazon,NHG-1080,NHG-1080,handling-time,2,2,yes
+amazon,NHG-1080,NHG-1080,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,NHG-1090-FBA,NHG-1090-FBA,price,28.99,28.99,yes
+amazon,NHG-1090-FBA,NHG-1090-FBA,minimum-seller-allowed-price,24.99,24.99,yes
+amazon,NHG-1090-FBA,NHG-1090-FBA,maximum-seller-allowed-price,43.49,43.49,yes
+amazon,NHG-1090-FBA,NHG-1090-FBA,quantity,(not sent; Amazon-managed),null,yes
+amazon,NHG-1090-FBA,NHG-1090-FBA,handling-time,(not sent; Amazon-managed),null,yes
+amazon,NHG-1090-FBA,NHG-1090-FBA,fulfillment-channel,AMAZON_EU,AMAZON_EU,yes
+amazon,NHG-1091,NHG-1091,price,14.99,14.99,yes
+amazon,NHG-1091,NHG-1091,minimum-seller-allowed-price,14.99,14.99,yes
+amazon,NHG-1091,NHG-1091,maximum-seller-allowed-price,22.49,22.49,yes
+amazon,NHG-1091,NHG-1091,quantity,36,36,yes
+amazon,NHG-1091,NHG-1091,handling-time,2,2,yes
+amazon,NHG-1091,NHG-1091,fulfillment-channel,DEFAULT,DEFAULT,yes
+amazon,OLD-WATERCAN-01,OLD-WATERCAN-01,price,11.99,11.99,yes
+amazon,OLD-WATERCAN-01,OLD-WATERCAN-01,minimum-seller-allowed-price,9.99,9.99,yes
+amazon,OLD-WATERCAN-01,OLD-WATERCAN-01,maximum-seller-allowed-price,17.99,17.99,yes
+amazon,OLD-WATERCAN-01,OLD-WATERCAN-01,quantity,0,0,yes
+amazon,OLD-WATERCAN-01,OLD-WATERCAN-01,handling-time,2,2,yes
+amazon,OLD-WATERCAN-01,OLD-WATERCAN-01,fulfillment-channel,DEFAULT,DEFAULT,yes
