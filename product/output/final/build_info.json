@@ -1,0 +1,55 @@
+{
+ "sage_problems": [
+  "line 26: blank row (Excel trailing row) ignored"
+ ],
+ "overrides": [
+  [
+   "NHG-1001",
+   "qty_in_stock",
+   40,
+   31,
+   "stocktake"
+  ],
+  [
+   "NHG-1013",
+   "qty_in_stock",
+   20,
+   30,
+   "stocktake"
+  ],
+  [
+   "NHG-1022",
+   "qty_in_stock",
+   6,
+   2,
+   "stocktake"
+  ],
+  [
+   "NHG-1041",
+   "qty_in_stock",
+   -4,
+   12,
+   "stocktake"
+  ],
+  [
+   "NHG-1051",
+   "qty_in_stock",
+   9,
+   0,
+   "stocktake"
+  ],
+  [
+   "NHG-1071",
+   "qty_in_stock",
+   90,
+   90,
+   "stocktake"
+  ]
+ ],
+ "shared_barcodes": {
+  "5060213450417": [
+   "NHG-1041",
+   "NHG-1042"
+  ]
+ }
+}

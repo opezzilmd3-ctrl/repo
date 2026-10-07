@@ -91,11 +91,14 @@ def build(args):
         for r in load_stocktake(args.stocktake):
             code = r["stock_code"].strip()
             s = by_code[code]
+            # a stocktake count is the new quantity in stock; allocations unchanged
+            if "counted_qty" in r and "qty_in_stock" not in r:
+                r["qty_in_stock"] = r["counted_qty"]
             for col in ("qty_in_stock", "qty_allocated"):
-                if r.get(col, "").strip() != "":
+                if (r.get(col) or "").strip() != "":
                     old, new = s[col], int(r[col])
-                    if old != new:
-                        overrides.append((code, col, old, new, "stocktake"))
+                    overrides.append((code, col, old, new, "stocktake"))
+                    s.setdefault("stocktake", []).append(f"stocktake: {col} {old} -> {new}")
                     s[col] = new
     discontinued = set(x.strip() for x in (args.discontinued or "").split(",") if x.strip())
 
@@ -112,6 +115,17 @@ def build(args):
     json.dump(snap, open(os.path.join(out, "shopify_snapshot.json"), "w"), indent=1)
     levels = {l["inventory_item_id"]: l["available"] for l in snap["inventory_levels"]}
     location_id = snap["locations"][0]["id"]
+    # Matching and the crosswalk use the source snapshot. "Current" values for
+    # shopify_updates (what still has to change) come from the live state.
+    if args.current_snapshot:
+        live = json.load(open(args.current_snapshot))
+    elif args.live_current:
+        live = fetch_shopify_snapshot()
+        json.dump(live, open(os.path.join(out, "shopify_before_final_push.json"), "w"), indent=1)
+    else:
+        live = snap
+    live_levels = {l["inventory_item_id"]: l["available"] for l in live["inventory_levels"]}
+    live_v = {v["id"]: (v, pr) for pr in live["products"] for v in pr["variants"]}
 
     variants = []
     for prod in snap["products"]:
@@ -244,6 +258,7 @@ def build(args):
     # --- notes for stock / status / weights
     for s in sage:
         code = s["stock_code"]
+        s["notes"].extend(s.get("stocktake", []))
         if s["raw_code"] != code:
             s["notes"].append(f"Sage stock code has stray whitespace ({s['raw_code']!r})")
         if code == R.KIT_CODE:
@@ -408,8 +423,10 @@ def build(args):
             role = "master"
         else:
             continue
-        cur = {"sku": v["sku"], "price": v["price"], "barcode": v["barcode"] or "",
-               "inventory": v["available"], "status": prod["status"]}
+        lv, lp = live_v[v["id"]]
+        prod = lp
+        cur = {"sku": lv["sku"], "price": lv["price"], "barcode": lv["barcode"] or "",
+               "inventory": live_levels.get(lv["inventory_item_id"]), "status": lp["status"]}
         changes = [k for k in ("sku", "price", "barcode", "inventory", "status")
                    if str(cur[k]) != str(tgt[k])]
         if prod["status"] == "archived" and changes:
@@ -428,6 +445,11 @@ def build(args):
     feed_fields = ["sku", "price", "minimum-seller-allowed-price", "maximum-seller-allowed-price",
                    "quantity", "handling-time", "fulfillment-channel"]
     w_csv("amazon_price_quantity.txt", feed_fields, feed_rows, delim="\t")
+    if args.previous_feed:
+        prev = {r["sku"]: r for r in load_tsv(args.previous_feed)}
+        delta = [r for r in feed_rows if prev.get(r["sku"]) != r]
+        w_csv("amazon_price_quantity_delta.txt", feed_fields, delta, delim="\t")
+        print(f"delta feed: {len(delta)} changed rows vs {args.previous_feed}")
     w_csv("sage_updates.csv", ["stock_code", "field", "sage_value", "correct_value", "reason"], sage_updates)
 
     json.dump({"sage_problems": sage_problems, "overrides": overrides,
@@ -448,6 +470,11 @@ def main():
     ap.add_argument("--shopify-snapshot")
     ap.add_argument("--stocktake")
     ap.add_argument("--discontinued")
+    ap.add_argument("--live-current", action="store_true",
+                    help="match on --shopify-snapshot but diff against the live Shopify state")
+    ap.add_argument("--current-snapshot",
+                    help="match on --shopify-snapshot but diff against this saved Shopify state")
+    ap.add_argument("--previous-feed", help="last pushed feed; writes amazon_price_quantity_delta.txt")
     build(ap.parse_args())
 
 

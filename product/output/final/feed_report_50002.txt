@@ -1,0 +1,5 @@
+Feed Processing Summary:
+	Number of records processed		8
+	Number of records successful		8
+
+original-record-number	sku	error-code	error-type	error-message

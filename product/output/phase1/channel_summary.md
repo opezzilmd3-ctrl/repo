@@ -23,7 +23,7 @@
 | Channel | Units |
 |---|---|
 | Shopify (sum of inventory, all on active products) | **1,037** |
-| Amazon FBM singles (sum of quantity) | **882** across 19 listings (16 with stock; NHG-1013, NHG-1041, NHG-1070 and the orphan are 0) |
+| Amazon FBM singles (sum of quantity) | **882** across 20 FBM single listings (16 with stock; NHG-1013, NHG-1041, NHG-1070 and the orphan are 0) |
 | Amazon FBM multipacks | **57 packs**: NHG-1011-X3 18 packs (54 trowels), NHG-1020-X5 39 packs (195 seed packets) |
 | Amazon FBM total (feed quantity column) | **939** |
 | Amazon FBA fulfillable (Amazon's stock, not sent) | **49**: NHG-1040-FBA 24, NHG-1050-FBA 6, NHG-1070-FBA 4, NHG-1090-FBA 15 |

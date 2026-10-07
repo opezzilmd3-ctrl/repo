@@ -1,0 +1,52 @@
+channel,channel_key,shopify_product_id,sku,title,barcode_or_product_id,fulfilment,stock_code,match_method,status,notes
+shopify,4400000201,8100000101,NHG-1001,Glazed Plant Pot / Small,5060213450011,,NHG-1001,sku,matched,
+shopify,4400000208,8100000101,nhg-1002,Glazed Plant Pot / Medium,5060213450028,,NHG-1002,normalised sku,matched,SKU format differs from Sage ('nhg-1002')
+shopify,4400000215,8100000101,NHG1003,Glazed Plant Pot / Large,5060213450035,,NHG-1003,normalised sku,matched,SKU format differs from Sage ('NHG1003')
+shopify,4400000222,8100000114,NHG-1010,Bamboo Garden Kneeler / Default Title,5060213450103,,NHG-1010,sku,matched,
+shopify,4400000229,8100000127,nhg1011,Stainless Hand Trowel / Default Title,5060213450110,,NHG-1011,normalised sku,matched,SKU format differs from Sage ('nhg1011')
+shopify,4400000236,8100000140,,Stainless Hand Fork / Default Title,5060213450127,,NHG-1012,barcode,matched,blank SKU
+shopify,4400000243,8100000153,NHG-1013 ,Bypass Pruning Shears / Default Title,5060213450134,,NHG-1013,normalised sku,matched,SKU format differs from Sage ('NHG-1013 ')
+shopify,4400000250,8100000166,NHG-1020,Organic Herb Seeds / Basil,5060213450202,,NHG-1020,sku,matched,
+shopify,4400000257,8100000166,NHG-1021,Organic Herb Seeds / Parsley,5060213450219,,NHG-1021,sku,matched,
+shopify,4400000264,8100000166,,Organic Herb Seeds / Coriander,5060213450226,,NHG-1022,barcode,matched,blank SKU
+shopify,4400000271,8100000179,NHG-1030,Herb Garden Starter Kit / Default Title,5060213450301,,NHG-1030,sku,matched,
+shopify,4400000278,8100000192,NHG-1040,Soy Wax Candle / Fig,5060213450400,,NHG-1040,sku,matched,
+shopify,4400000285,8100000192,NHG-1041,Soy Wax Candle / Cedar,5060213450417,,NHG-1041,sku,matched,
+shopify,4400000292,8100000192,NHG-1042,Soy Wax Candle / Linen,5060213450424,,NHG-1042,sku,matched,
+shopify,4400000299,8100000205,NHG-1050,Wool Throw / Charcoal,5060213450509,,NHG-1050,sku,matched,
+shopify,4400000306,8100000205,NHG-1051,Wool Throw / Oat,5060213450516,,NHG-1051,sku,matched,
+shopify,4400000313,8100000218,NHG-1060,Gardening Gloves / Children's,,,NHG-1060,sku,matched,
+shopify,4400000320,8100000218,NHG-1061,Gardening Gloves / Adult,5060213450615,,NHG-1061,sku,matched,
+shopify,4400000327,8100000231,NHG-1070,Hanging Bird Feeder / Default Title,5060213450707,,NHG-1070,sku,matched,
+shopify,4400000334,8100000244,NHG-1071,Wild Bird Seed Mix 2kg / Default Title,5060213450714,,NHG-1071,sku,matched,
+shopify,4400000341,8100000257,NHG-1080,Coir Doormat / Default Title,5060213450806,,NHG-1080,sku,matched,
+shopify,4400000348,8100000270,NHG-1081,Garden Kneeling Pad / Default Title,5060213450813,,NHG-1081,sku,matched,
+shopify,4400000355,8100000283,NHG-1011,Stainless Hand Trowel / Default Title,5060213450110,,NHG-1011,sku,duplicate,duplicate product (created 2026-08-21T19:44:02+00:00); earlier product 8100000127 (created 2023-04-02T14:31:05+00:00) kept
+shopify,4400000362,8100000296,NHG-1090,LED Solar Lantern / Default Title,0841234509064,,NHG-1090,sku,matched,
+shopify,4400000369,8100000309,NHG-1091,Solar Fairy Lights / Default Title,5060213450913,,NHG-1091,sku,matched,
+amazon,NHG-1001,,NHG-1001,Northfield Glazed Plant Pot - Small,5060213450011,FBM single,NHG-1001,sku,matched,
+amazon,nhg-1002,,nhg-1002,Northfield Glazed Plant Pot - Medium,5060213450028,FBM single,NHG-1002,normalised sku,matched,SKU case differs from Sage (Amazon SKU kept)
+amazon,NHG-1003,,NHG-1003,Northfield Glazed Plant Pot - Large,5060213450035,FBM single,NHG-1003,sku,matched,
+amazon,NHG-1010,,NHG-1010,Northfield Bamboo Garden Kneeler,5060213450103,FBM single,NHG-1010,sku,matched,
+amazon,NHG-1011,,NHG-1011,Northfield Stainless Hand Trowel,5060213450110,FBM single,NHG-1011,sku,matched,
+amazon,NHG-1011-X3,,NHG-1011-X3,Northfield Stainless Hand Trowel (Pack of 3),5060213459113,FBM multipack x3,NHG-1011,sku,matched,
+amazon,2J-W8KQ-7ZPA,,2J-W8KQ-7ZPA,Northfield Stainless Hand Fork,5060213450127,FBM single,NHG-1012,product-id,matched,Amazon auto-generated SKU
+amazon,NHG-1013,,NHG-1013,Northfield Bypass Pruning Shears,5060213450134,FBM single,NHG-1013,sku,matched,
+amazon,NHG-1020,,NHG-1020,Northfield Organic Herb Seeds - Basil,5060213450202,FBM single,NHG-1020,sku,matched,
+amazon,NHG-1020-X5,,NHG-1020-X5,Northfield Organic Herb Seeds - Basil (Pack of 5),5060213459205,FBM multipack x5,NHG-1020,sku,matched,
+amazon,NHG-1021,,NHG-1021,Northfield Organic Herb Seeds - Parsley,5060213450219,FBM single,NHG-1021,sku,matched,
+amazon,NHG-1030,,NHG-1030,Northfield Herb Garden Starter Kit,5060213450301,FBM single,NHG-1030,sku,matched,
+amazon,NHG-1040-FBA,,NHG-1040-FBA,Northfield Soy Wax Candle - Fig,5060213450400,FBA,NHG-1040,sku,matched,
+amazon,NHG-1041,,NHG-1041,Northfield Soy Wax Candle - Cedar,5060213450417,FBM single,NHG-1041,sku,matched,
+amazon,NHG-1042,,NHG-1042,Northfield Soy Wax Candle - Linen,5060213450424,FBM single,NHG-1042,sku,matched,
+amazon,NHG-1050-FBA,,NHG-1050-FBA,Northfield Wool Throw - Charcoal,5060213450509,FBA,NHG-1050,sku,matched,
+amazon,NHG-1051,,NHG-1051,Northfield Wool Throw - Oat,5060213450516,FBM single,NHG-1051,sku,matched,
+amazon,7Q-ZX4M-PL2C,,7Q-ZX4M-PL2C,Northfield Gardening Gloves - Children's,5060213450608,FBM single,NHG-1060,product-id,matched,Amazon auto-generated SKU
+amazon,NHG-1061,,NHG-1061,Northfield Gardening Gloves - Adult,5060213450615,FBM single,NHG-1061,sku,matched,
+amazon,NHG-1070,,NHG-1070,Northfield Hanging Bird Feeder,5060213450707,FBM single,NHG-1070,sku,matched,
+amazon,NHG-1070-FBA,,NHG-1070-FBA,Northfield Hanging Bird Feeder,5060213450707,FBA,NHG-1070,sku,matched,
+amazon,NHG-1071,,NHG-1071,Northfield Wild Bird Seed Mix 2kg,5060213450714,FBM single,NHG-1071,sku,matched,
+amazon,NHG-1080,,NHG-1080,Northfield Coir Doormat,5060213450806,FBM single,NHG-1080,sku,matched,
+amazon,NHG-1090-FBA,,NHG-1090-FBA,Northfield LED Solar Lantern,0841234509064,FBA,NHG-1090,sku,matched,
+amazon,NHG-1091,,NHG-1091,Northfield Solar Fairy Lights,5060213450912,FBM single,NHG-1091,sku,matched,
+amazon,OLD-WATERCAN-01,,OLD-WATERCAN-01,Galvanised Watering Can 9L,5060213459991,FBM single,,none,orphan,no Sage item has this SKU or EAN

@@ -1,0 +1,4 @@
+stock_code,field,sage_value,correct_value,reason
+NHG-1042,barcode,5060213450417,5060213450424,belongs to NHG-1041 (shared barcode)
+NHG-1061,barcode,5060213450616,5060213450615,invalid check digit (expected 5)
+NHG-1081,barcode,,5060213450813,missing in Sage
