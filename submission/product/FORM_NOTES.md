@@ -22,7 +22,10 @@ The archive was extracted into an empty folder and verified:
 The prompt is unchanged from the one used in the self-test.
 
 **Self-test (fresh session, complete inputs, unchanged prompt):**
-- **Steps: 81.** Counted by count_steps.py from the native Claude Code session log. The log is attached as trace/product_selftest_session.jsonl, together with the step-count screenshot.
+- **Steps: 81.** This is the original-task count: the main-model replies from the task prompt up to the first step-count request, counted by count_steps.py from the native Claude Code session log. The log is attached as **product_selftest_session.jsonl**.
+  - The log also holds later housekeeping turns in the same session (the step-count request, a question about this form, and the request to export the log).
+  - If count_steps.py is run on the whole file without a boundary, it stops at the *last* count request and reports 88. The task itself is 81 steps, all in one user turn.
+  - The first message in the log is this prompt, word for word. Only the markdown formatting was lost when it was pasted.
 - The run completed all four parts and the verification:
   - 24 master rows
   - crosswalk of 25 Shopify variants and 26 Amazon listings, including the orphan, the duplicate product, blank SKUs and auto-generated Amazon SKUs
